@@ -1,0 +1,4055 @@
+{
+    "5976": {
+        "direct_path": "train/img_html_news/5397",
+        "inv_path": "train/inverse_search/5397",
+        "image_path": "train/img/5397.jpg",
+        "caption": "济宁事业编 学了几天 这个分数也还行",
+        "label": 2
+    },
+    "5059": {
+        "direct_path": "train/img_html_news/4480",
+        "inv_path": "train/inverse_search/4480",
+        "image_path": "train/img/4480.jpg",
+        "caption": "真实住过酒店的人都懂",
+        "label": 2
+    },
+    "3251": {
+        "direct_path": "train/img_html_news/2672",
+        "inv_path": "train/inverse_search/2672",
+        "image_path": "train/img/2672.jpg",
+        "caption": "清代金环镶东珠耳饰现藏于故宫博物院",
+        "label": 0
+    },
+    "460": {
+        "direct_path": "test/img_html_news/1189",
+        "inv_path": "test/inverse_search/1189",
+        "image_path": "test/img/1189.jpg",
+        "caption": "ZB1中转站出",
+        "label": 2
+    },
+    "6280": {
+        "direct_path": "train/img_html_news/5701",
+        "inv_path": "train/inverse_search/5701",
+        "image_path": "train/img/5701.jpg",
+        "caption": "时隔八年鹿晗再度登上ELLE 中国版封面",
+        "label": 2
+    },
+    "6755": {
+        "direct_path": "train/img_html_news/6176",
+        "inv_path": "train/inverse_search/6176",
+        "image_path": "train/img/6176.jpg",
+        "caption": "来个淄博的朋友回答一下 淄博烧烤都这么咸吗 感觉没想象的好吃欸 淄博临淄大院",
+        "label": 2
+    },
+    "5846": {
+        "direct_path": "train/img_html_news/5267",
+        "inv_path": "train/inverse_search/5267",
+        "image_path": "train/img/5267.jpg",
+        "caption": "我发现山西晋城市人民医院门诊大厅的外墙上有一幅黑白棋子图案 无常执黑医护执白黑落十三夺魂魄白定十二守阳元汹汹瘟霾黔技尽白余一子妙回春这是一个典型的围棋定式黑棋落13子白棋落12子下一步该白棋走白棋走完就是赢棋在医院寓意病魔该耍的手段都耍完了接下来医院一出手即可妙手回春患者康复",
+        "label": 2
+    },
+    "2177": {
+        "direct_path": "train/img_html_news/1598",
+        "inv_path": "train/inverse_search/1598",
+        "image_path": "train/img/1598.jpg",
+        "caption": "综合叙利亚媒体沙姆调频和美国广播公司消息当地时间24日",
+        "label": 0
+    },
+    "4356": {
+        "direct_path": "train/img_html_news/3777",
+        "inv_path": "train/inverse_search/3777",
+        "image_path": "train/img/3777.jpg",
+        "caption": "选秀历史上第一个中c章昊 章昊第一C位出道",
+        "label": 2
+    },
+    "3491": {
+        "direct_path": "train/img_html_news/2912",
+        "inv_path": "train/inverse_search/2912",
+        "image_path": "train/img/2912.jpg",
+        "caption": "辽宁增本土确诊5例 3月29日024时辽宁省新增5例本土新冠肺炎确诊病例",
+        "label": 0
+    },
+    "7165": {
+        "direct_path": "val/img_html_news/180",
+        "inv_path": "val/inverse_search/180",
+        "image_path": "val/img/180.jpg",
+        "caption": "据今日俄罗斯通讯社27日报道俄罗斯外交部经济合作司司长比里切夫斯基在接受该媒体采访时说",
+        "label": 0
+    },
+    "4301": {
+        "direct_path": "train/img_html_news/3722",
+        "inv_path": "train/inverse_search/3722",
+        "image_path": "train/img/3722.jpg",
+        "caption": "我买的马面裙到了cc一穿根本不肯脱下来 一直嘀咕腿长2米啊好显长啊难怪雕要偷马面裙",
+        "label": 2
+    },
+    "3968": {
+        "direct_path": "train/img_html_news/3389",
+        "inv_path": "train/inverse_search/3389",
+        "image_path": "train/img/3389.jpg",
+        "caption": " 3月22日韩国检方以涉嫌渎职起诉最大在野党共同民主党党首李在明",
+        "label": 0
+    },
+    "6471": {
+        "direct_path": "train/img_html_news/5892",
+        "inv_path": "train/inverse_search/5892",
+        "image_path": "train/img/5892.jpg",
+        "caption": "内娱天选霸总 摩登兄弟刘宇宁魏劭 刘宇宁折腰 无论是现代的霸总还是古言里的冷面霸总只要是你想要的全都有 百变七彩霸总摩登兄弟刘宇宁 cr见图水印",
+        "label": 2
+    },
+    "3630": {
+        "direct_path": "train/img_html_news/3051",
+        "inv_path": "train/inverse_search/3051",
+        "image_path": "train/img/3051.jpg",
+        "caption": "中国地震台网正式测定03月29日15时02分在广东佛山市三水区北纬23.27度",
+        "label": 0
+    },
+    "380": {
+        "direct_path": "test/img_html_news/1109",
+        "inv_path": "test/inverse_search/1109",
+        "image_path": "test/img/1109.jpg",
+        "caption": "2023年9月4日下午，洛阳理工学院发生一起刑事案件，犯罪嫌疑人纪某作案后跳楼自杀，经抢救无效死亡；受害人雷某经抢救无效死亡。另有两名学生在阻止犯罪过程中受伤  ",
+        "label": 0
+    },
+    "1587": {
+        "direct_path": "train/img_html_news/1008",
+        "inv_path": "train/inverse_search/1008",
+        "image_path": "train/img/1008.jpg",
+        "caption": "乌克兰部队的人员具体损失不清楚啊反正俄罗斯方面提供的数据也总有人不信我们从侧面观察一下之前乌克兰进行了5轮全国总动员现在开始动员学生了目前所有在国",
+        "label": 1
+    },
+    "4541": {
+        "direct_path": "train/img_html_news/3962",
+        "inv_path": "train/inverse_search/3962",
+        "image_path": "train/img/3962.jpg",
+        "caption": "画江湖之不良人 奥姑面具终于被打碎了耶律质舞也是个红眼睛的美女啊而且是喜欢打架的单纯姑娘战损版奥姑出奇的好看",
+        "label": 2
+    },
+    "4951": {
+        "direct_path": "train/img_html_news/4372",
+        "inv_path": "train/inverse_search/4372",
+        "image_path": "train/img/4372.jpg",
+        "caption": "大学生一定要会找资源!",
+        "label": 2
+    },
+    "6436": {
+        "direct_path": "train/img_html_news/5857",
+        "inv_path": "train/inverse_search/5857",
+        "image_path": "train/img/5857.jpg",
+        "caption": "李现 白敬亭 刘冲昨晚合影照",
+        "label": 2
+    },
+    "4037": {
+        "direct_path": "train/img_html_news/3458",
+        "inv_path": "train/inverse_search/3458",
+        "image_path": "train/img/3458.jpg",
+        "caption": "宋茜 宋茜五十公里桃花坞 见到好多坞民了 就是没捕捉到新鲜出门的 可能这就是i人吗 最后抓到一个穿了防晒袖套的宝",
+        "label": 2
+    },
+    "6164": {
+        "direct_path": "train/img_html_news/5585",
+        "inv_path": "train/inverse_search/5585",
+        "image_path": "train/img/5585.jpg",
+        "caption": "eStar撞了打野",
+        "label": 2
+    },
+    "5850": {
+        "direct_path": "train/img_html_news/5271",
+        "inv_path": "train/inverse_search/5271",
+        "image_path": "train/img/5271.jpg",
+        "caption": "原来深圳也可以这样看海的",
+        "label": 2
+    },
+    "2164": {
+        "direct_path": "train/img_html_news/1585",
+        "inv_path": "train/inverse_search/1585",
+        "image_path": "train/img/1585.jpg",
+        "caption": "对于网络上一些对关晓彤 的传闻工作室15日晚回应中新文娱 称没见过这么离谱的造谣",
+        "label": 0
+    },
+    "6625": {
+        "direct_path": "train/img_html_news/6046",
+        "inv_path": "train/inverse_search/6046",
+        "image_path": "train/img/6046.jpg",
+        "caption": "房子搭好了 我们有家了",
+        "label": 2
+    },
+    "992": {
+        "direct_path": "train/img_html_news/413",
+        "inv_path": "train/inverse_search/413",
+        "image_path": "train/img/413.jpg",
+        "caption": "辉瑞高管陈可杰感染新冠后过世40多岁没救活自己可惜了 ",
+        "label": 1
+    },
+    "778": {
+        "direct_path": "train/img_html_news/199",
+        "inv_path": "train/inverse_search/199",
+        "image_path": "train/img/199.jpg",
+        "caption": "真够吓人的偷钱偷电动车现在直接偷孩子 ",
+        "label": 1
+    },
+    "2712": {
+        "direct_path": "train/img_html_news/2133",
+        "inv_path": "train/inverse_search/2133",
+        "image_path": "train/img/2133.jpg",
+        "caption": "据韩国时报2日报道在泰国多家媒体曝光韩国网红骚扰当地女性后",
+        "label": 0
+    },
+    "2946": {
+        "direct_path": "train/img_html_news/2367",
+        "inv_path": "train/inverse_search/2367",
+        "image_path": "train/img/2367.jpg",
+        "caption": "佩洛西也口误了据美国纽约邮报4日报道",
+        "label": 0
+    },
+    "3325": {
+        "direct_path": "train/img_html_news/2746",
+        "inv_path": "train/inverse_search/2746",
+        "image_path": "train/img/2746.jpg",
+        "caption": "你知道五高是哪五高吗 5月11日是世界防治肥胖日我国是全球超重肥胖人数最多的国家",
+        "label": 0
+    },
+    "3077": {
+        "direct_path": "train/img_html_news/2498",
+        "inv_path": "train/inverse_search/2498",
+        "image_path": "train/img/2498.jpg",
+        "caption": "8月8日国防部新闻发言人吴谦就中方取消中美两军三项交往活动及美媒有关炒作答记者问",
+        "label": 0
+    },
+    "2166": {
+        "direct_path": "train/img_html_news/1587",
+        "inv_path": "train/inverse_search/1587",
+        "image_path": "train/img/1587.jpg",
+        "caption": "外交部发言人汪文斌12日主持例行记者会有记者提问说",
+        "label": 0
+    },
+    "6746": {
+        "direct_path": "train/img_html_news/6167",
+        "inv_path": "train/inverse_search/6167",
+        "image_path": "train/img/6167.jpg",
+        "caption": "治愈一切不开心",
+        "label": 2
+    },
+    "1459": {
+        "direct_path": "train/img_html_news/880",
+        "inv_path": "train/inverse_search/880",
+        "image_path": "train/img/880.jpg",
+        "caption": "微笑微笑我只想周末能回家微笑微笑 ",
+        "label": 1
+    },
+    "5941": {
+        "direct_path": "train/img_html_news/5362",
+        "inv_path": "train/inverse_search/5362",
+        "image_path": "train/img/5362.jpg",
+        "caption": "桑酒别入魔了族人都给你带回来了",
+        "label": 2
+    },
+    "5506": {
+        "direct_path": "train/img_html_news/4927",
+        "inv_path": "train/inverse_search/4927",
+        "image_path": "train/img/4927.jpg",
+        "caption": "第一次看到有这么讨厌沈眉庄的人",
+        "label": 2
+    },
+    "1129": {
+        "direct_path": "train/img_html_news/550",
+        "inv_path": "train/inverse_search/550",
+        "image_path": "train/img/550.jpg",
+        "caption": "唐山要求雷霆风暴清仓见底那几个被打的女孩子到底怎么样了什么情况啊倒是跟踪报道一下啊 ",
+        "label": 1
+    },
+    "3064": {
+        "direct_path": "train/img_html_news/2485",
+        "inv_path": "train/inverse_search/2485",
+        "image_path": "train/img/2485.jpg",
+        "caption": "在台岛周边战备警巡是对美台勾连活动的严正警告东部战区新闻发言人施毅陆军大校表示近日",
+        "label": 0
+    },
+    "919": {
+        "direct_path": "train/img_html_news/340",
+        "inv_path": "train/inverse_search/340",
+        "image_path": "train/img/340.jpg",
+        "caption": "野蛮暴虐没有人性的人哪都有为什么小伙子不反抗连呼喊都没有为什么路人不制止为什么没有人报警所以当年俄罗斯可以侵占那么多领土一万日兵可以占领",
+        "label": 1
+    },
+    "2199": {
+        "direct_path": "train/img_html_news/1620",
+        "inv_path": "train/inverse_search/1620",
+        "image_path": "train/img/1620.jpg",
+        "caption": " 2023年4月11日网上流传一则疑似精神病母亲虐待自家孩子的信息",
+        "label": 0
+    },
+    "1699": {
+        "direct_path": "train/img_html_news/1120",
+        "inv_path": "train/inverse_search/1120",
+        "image_path": "train/img/1120.jpg",
+        "caption": "10月10日至今静默了大约40天今天早上终于复工开开心心上班下午回家把冰箱里的菜吃的七七八八然后晚上九点半开始各群里都在转发静默通知懒得理你请",
+        "label": 1
+    },
+    "3238": {
+        "direct_path": "train/img_html_news/2659",
+        "inv_path": "train/inverse_search/2659",
+        "image_path": "train/img/2659.jpg",
+        "caption": "你被带货主播的家人话术套路过吗 家人们选品团队所有人都阻止我上架",
+        "label": 0
+    },
+    "7526": {
+        "direct_path": "val/img_html_news/541",
+        "inv_path": "val/inverse_search/541",
+        "image_path": "val/img/541.jpg",
+        "caption": "你睡了么可惜我失眠了",
+        "label": 2
+    },
+    "112": {
+        "direct_path": "test/img_html_news/841",
+        "inv_path": "test/inverse_search/841",
+        "image_path": "test/img/841.jpg",
+        "caption": "西安成立调查组核查回流生报名资格今年西安中考真的很离谱，11万考生4万河南回流生，分数线直接比去年高了16分，满分700，600分之下基本没学上，最离谱的是西安...",
+        "label": 1
+    },
+    "445": {
+        "direct_path": "test/img_html_news/1174",
+        "inv_path": "test/inverse_search/1174",
+        "image_path": "test/img/1174.jpg",
+        "caption": "这一生过得怎么样，不是看得到和占有，也不是看时长和寿命，看两点：1心流动，跳动，跃动的瞬间；2平静中感受生命之美的时光。",
+        "label": 2
+    },
+    "4391": {
+        "direct_path": "train/img_html_news/3812",
+        "inv_path": "train/inverse_search/3812",
+        "image_path": "train/img/3812.jpg",
+        "caption": "陈情令开机五年了 不管多久那个夏天永远值得纪念",
+        "label": 2
+    },
+    "6976": {
+        "direct_path": "train/img_html_news/6397",
+        "inv_path": "train/inverse_search/6397",
+        "image_path": "train/img/6397.jpg",
+        "caption": "东方阿保外墙即将竣工装修开始晓秀未来总部",
+        "label": 2
+    },
+    "2682": {
+        "direct_path": "train/img_html_news/2103",
+        "inv_path": "train/inverse_search/2103",
+        "image_path": "train/img/2103.jpg",
+        "caption": "6月26日0时至24时北京新增3例本土确诊病例和1例无症状感染者",
+        "label": 0
+    },
+    "7114": {
+        "direct_path": "val/img_html_news/129",
+        "inv_path": "val/inverse_search/129",
+        "image_path": "val/img/129.jpg",
+        "caption": "唐山被打女生去世全部图片都是来自评论和微博只希望网友能把这件事顶到一个高峰请求事实真相让我们看清唐山公安局真正的一面如果没人闹没人说没人追",
+        "label": 1
+    },
+    "1241": {
+        "direct_path": "train/img_html_news/662",
+        "inv_path": "train/inverse_search/662",
+        "image_path": "train/img/662.jpg",
+        "caption": "南昌正新鸡排华东交通大学店外卖售卖变质手扒鸡网友私信爆料我想曝光一下正新鸡排华东交通大学店昨天下午3.30左右我在饿了么平台点了一份爆浆鸡排和蜜汁",
+        "label": 1
+    },
+    "7339": {
+        "direct_path": "val/img_html_news/354",
+        "inv_path": "val/inverse_search/354",
+        "image_path": "val/img/354.jpg",
+        "caption": " 俄罗斯卫星通讯社刚刚消息称俄罗斯国家反恐委员会当地时间4月3日表示",
+        "label": 0
+    },
+    "2287": {
+        "direct_path": "train/img_html_news/1708",
+        "inv_path": "train/inverse_search/1708",
+        "image_path": "train/img/1708.jpg",
+        "caption": "韩国防长李钟燮与美国防长奥斯汀11日就被泄露五角大楼文件涉及窃听韩国一事通话韩国政府称",
+        "label": 0
+    },
+    "3626": {
+        "direct_path": "train/img_html_news/3047",
+        "inv_path": "train/inverse_search/3047",
+        "image_path": "train/img/3047.jpg",
+        "caption": "政法系统组织清理各类证明事项13000多项中央政法委副秘书长景汉朝22日在中国这十年系列主题新闻发布会上介绍党的十八大以来政法改革举措与成效时表示党的十八大以来",
+        "label": 0
+    },
+    "5329": {
+        "direct_path": "train/img_html_news/4750",
+        "inv_path": "train/inverse_search/4750",
+        "image_path": "train/img/4750.jpg",
+        "caption": "在合作者的眼中TFBOYS易烊千玺 的身体里仿佛有个开关连接着新与旧问起易烊千玺是否觉得自己是一个比较怀旧的人他点点头我是我很喜欢那种老旧的东西 他像是从旧时光里走来的青年只不过他没有一直走在老路上而是不断突破着自己从前的样子 易烊千玺乐谱封面 合作者说易烊千玺身上有三种时态 他与TA 摄影刘颂刘颂LiuSong",
+        "label": 2
+    },
+    "5943": {
+        "direct_path": "train/img_html_news/5364",
+        "inv_path": "train/inverse_search/5364",
+        "image_path": "train/img/5364.jpg",
+        "caption": "我妹被订啦",
+        "label": 2
+    },
+    "1947": {
+        "direct_path": "train/img_html_news/1368",
+        "inv_path": "train/inverse_search/1368",
+        "image_path": "train/img/1368.jpg",
+        "caption": "乌鲁木齐刺激限流了 ",
+        "label": 1
+    },
+    "3505": {
+        "direct_path": "train/img_html_news/2926",
+        "inv_path": "train/inverse_search/2926",
+        "image_path": "train/img/2926.jpg",
+        "caption": "全国打击性侵犯罪专项行动推进会12日召开公安部强调",
+        "label": 0
+    },
+    "4273": {
+        "direct_path": "train/img_html_news/3694",
+        "inv_path": "train/inverse_search/3694",
+        "image_path": "train/img/3694.jpg",
+        "caption": "减肥也可以喝之 我的夏日冰箱低卡快乐水 有大家爱的吗",
+        "label": 2
+    },
+    "1953": {
+        "direct_path": "train/img_html_news/1374",
+        "inv_path": "train/inverse_search/1374",
+        "image_path": "train/img/1374.jpg",
+        "caption": "老照片1888年李鸿章次女李菊耦在北京家中留影这年她嫁给了四十一岁的张佩纶官至都察院左副都御史此时的张佩纶系三婚而李菊耦时年二十二因李鸿章",
+        "label": 1
+    },
+    "673": {
+        "direct_path": "train/img_html_news/94",
+        "inv_path": "train/inverse_search/94",
+        "image_path": "train/img/94.jpg",
+        "caption": "湖南李先生送5岁女儿上幼儿园担心孩子哭闹他站在教室外看监控屏突然看到老师打了女儿一耳光李先生冲进教室扇了老师一巴掌他要求回看监控没想到老师还用围兜",
+        "label": 1
+    },
+    "4143": {
+        "direct_path": "train/img_html_news/3564",
+        "inv_path": "train/inverse_search/3564",
+        "image_path": "train/img/3564.jpg",
+        "caption": "祝爸爸 福如東海 壽比南山 生日大快樂",
+        "label": 2
+    },
+    "658": {
+        "direct_path": "train/img_html_news/79",
+        "inv_path": "train/inverse_search/79",
+        "image_path": "train/img/79.jpg",
+        "caption": "唐山被打女生去世唐山多名男子在烧烤店围殴多名女子唐山 打人不知道是真是假官方和媒体的态度很模糊事情发生几天了一直没看到四名受害女孩的发声在那",
+        "label": 1
+    },
+    "2388": {
+        "direct_path": "train/img_html_news/1809",
+        "inv_path": "train/inverse_search/1809",
+        "image_path": "train/img/1809.jpg",
+        "caption": "世卫专家称接种猴痘疫苗或引发严重副作用世界卫生组织专家23日说目前出现猴痘疫情的国家属于猴痘病毒非流行国家",
+        "label": 0
+    },
+    "7129": {
+        "direct_path": "val/img_html_news/144",
+        "inv_path": "val/inverse_search/144",
+        "image_path": "val/img/144.jpg",
+        "caption": "哭了哭了 ",
+        "label": 1
+    },
+    "5658": {
+        "direct_path": "train/img_html_news/5079",
+        "inv_path": "train/inverse_search/5079",
+        "image_path": "train/img/5079.jpg",
+        "caption": "王源天亮倾倒呼之欲出的期盼星芒在歌者心中发亮本周五22 00我想和你唱和TFBOYS王源 一起用音乐作桨游荡远方",
+        "label": 2
+    },
+    "593": {
+        "direct_path": "train/img_html_news/14",
+        "inv_path": "train/inverse_search/14",
+        "image_path": "train/img/14.jpg",
+        "caption": "这是为啥呢吃瓜 ",
+        "label": 1
+    },
+    "873": {
+        "direct_path": "train/img_html_news/294",
+        "inv_path": "train/inverse_search/294",
+        "image_path": "train/img/294.jpg",
+        "caption": "TaylorSwift 啊啊啊等官宣 买不到我都要去场外蹲着听泪 ",
+        "label": 1
+    },
+    "2181": {
+        "direct_path": "train/img_html_news/1602",
+        "inv_path": "train/inverse_search/1602",
+        "image_path": "train/img/1602.jpg",
+        "caption": " 3月27日原苏格兰卫生大臣胡穆扎优素福当选英国苏格兰地区执政党苏格兰民族党党首",
+        "label": 0
+    },
+    "158": {
+        "direct_path": "test/img_html_news/887",
+        "inv_path": "test/inverse_search/887",
+        "image_path": "test/img/887.jpg",
+        "caption": "作为一个历史文件，不再具有任何现实意义。希望上述人士认清现实。",
+        "label": 1
+    },
+    "1628": {
+        "direct_path": "train/img_html_news/1049",
+        "inv_path": "train/inverse_search/1049",
+        "image_path": "train/img/1049.jpg",
+        "caption": "辉瑞的中国推销大使成了天使希望病毒退祛世界人民健康 ",
+        "label": 1
+    },
+    "2880": {
+        "direct_path": "train/img_html_news/2301",
+        "inv_path": "train/inverse_search/2301",
+        "image_path": "train/img/2301.jpg",
+        "caption": "北京房山提醒购买过榴莲西施的请报备 7月1日以来曾购买过榴莲西施山东青岛山刘家庄村库相关食品包括榴莲雪糕榴莲蛋糕以及榴莲果肉的居民",
+        "label": 0
+    },
+    "6162": {
+        "direct_path": "train/img_html_news/5583",
+        "inv_path": "train/inverse_search/5583",
+        "image_path": "train/img/5583.jpg",
+        "caption": "我最近买了很多这种骚气衣服 都是裆那里扣扣子的连体半身 但是我矮 别人穿露腰 我穿裆那里垂下来一坨 像挂了只 腰还是不露 然后就把扣子位置挪了一下 扣多一点 穿个低腰裤 也给露了 而且不用掖衣服 非常平整 感觉打开了新世界",
+        "label": 2
+    },
+    "6728": {
+        "direct_path": "train/img_html_news/6149",
+        "inv_path": "train/inverse_search/6149",
+        "image_path": "train/img/6149.jpg",
+        "caption": "花語",
+        "label": 2
+    },
+    "5021": {
+        "direct_path": "train/img_html_news/4442",
+        "inv_path": "train/inverse_search/4442",
+        "image_path": "train/img/4442.jpg",
+        "caption": "古代考试作弊方式真小抄",
+        "label": 2
+    },
+    "66": {
+        "direct_path": "test/img_html_news/795",
+        "inv_path": "test/inverse_search/795",
+        "image_path": "test/img/795.jpg",
+        "caption": "分享图片",
+        "label": 1
+    },
+    "4283": {
+        "direct_path": "train/img_html_news/3704",
+        "inv_path": "train/inverse_search/3704",
+        "image_path": "train/img/3704.jpg",
+        "caption": "郭富城一家四口去旅游了 女儿过4岁生日方媛也越来越美了女儿的身高都不矮大女儿都齐方媛的腰间以上了 郭富城还是很有家庭观的一个人平时工作那么忙碌没想到在女儿生日的时候百忙中抽闲陪伴家人去旅游一家人开开心心幸福写在了脸上不愧是人生赢家",
+        "label": 2
+    },
+    "1011": {
+        "direct_path": "train/img_html_news/432",
+        "inv_path": "train/inverse_search/432",
+        "image_path": "train/img/432.jpg",
+        "caption": "求证网传郑州恒大正式解散吃瓜 ",
+        "label": 1
+    },
+    "2360": {
+        "direct_path": "train/img_html_news/1781",
+        "inv_path": "train/inverse_search/1781",
+        "image_path": "train/img/1781.jpg",
+        "caption": "2022年5月1日0时至24时全省报告新增本土确诊病例5例",
+        "label": 0
+    },
+    "5478": {
+        "direct_path": "train/img_html_news/4899",
+        "inv_path": "train/inverse_search/4899",
+        "image_path": "train/img/4899.jpg",
+        "caption": "离开老板的公司也许活得更好",
+        "label": 2
+    },
+    "7399": {
+        "direct_path": "val/img_html_news/414",
+        "inv_path": "val/inverse_search/414",
+        "image_path": "val/img/414.jpg",
+        "caption": "可爱晕谁养的像谁",
+        "label": 2
+    },
+    "6213": {
+        "direct_path": "train/img_html_news/5634",
+        "inv_path": "train/inverse_search/5634",
+        "image_path": "train/img/5634.jpg",
+        "caption": "谷雨到了片场旭事横店梅雨季节让我想到了黄梅杀一整个单元都在下雨氛围感足足的这几天一直在打过两天再给你们介绍一下周一宿和王天亮",
+        "label": 2
+    },
+    "2595": {
+        "direct_path": "train/img_html_news/2016",
+        "inv_path": "train/inverse_search/2016",
+        "image_path": "train/img/2016.jpg",
+        "caption": "6月18日0时至24时北京无新增本土确诊病例疑似病例",
+        "label": 0
+    },
+    "937": {
+        "direct_path": "train/img_html_news/358",
+        "inv_path": "train/inverse_search/358",
+        "image_path": "train/img/358.jpg",
+        "caption": "唐山要求雷霆风暴清仓见底请你别装瞎请你别演戏 ",
+        "label": 1
+    },
+    "1776": {
+        "direct_path": "train/img_html_news/1197",
+        "inv_path": "train/inverse_search/1197",
+        "image_path": "train/img/1197.jpg",
+        "caption": "这个世界不会好了摊手 ",
+        "label": 1
+    },
+    "263": {
+        "direct_path": "test/img_html_news/992",
+        "inv_path": "test/inverse_search/992",
+        "image_path": "test/img/992.jpg",
+        "caption": "为了防止火车司机工作时打瞌睡，保证列车安全运行，印度东北边境铁路公司研发了一套人工智能设备，专门用来读取司机的眨眼频率，并在他们困意袭来时发出警报或让火车紧急制动。印度《国家先驱报》10日报道称，NF",
+        "label": 0
+    },
+    "6069": {
+        "direct_path": "train/img_html_news/5490",
+        "inv_path": "train/inverse_search/5490",
+        "image_path": "train/img/5490.jpg",
+        "caption": "候机室的空调怎么不凉吖",
+        "label": 2
+    },
+    "1465": {
+        "direct_path": "train/img_html_news/886",
+        "inv_path": "train/inverse_search/886",
+        "image_path": "train/img/886.jpg",
+        "caption": "唐山被打女生去世唐山多名男子在烧烤店围殴多名女子严惩唐山烧烤店打人事件狂徒 直接单独带的话题每天报道美国的种族歧视怎么不管管国内的黑社会啊起",
+        "label": 1
+    },
+    "4260": {
+        "direct_path": "train/img_html_news/3681",
+        "inv_path": "train/inverse_search/3681",
+        "image_path": "train/img/3681.jpg",
+        "caption": "献给所有现在感觉不快乐的女孩 三毛",
+        "label": 2
+    },
+    "5647": {
+        "direct_path": "train/img_html_news/5068",
+        "inv_path": "train/inverse_search/5068",
+        "image_path": "train/img/5068.jpg",
+        "caption": "腹肌这个东西稍微使劲练一下就会有的运动焕醒计划运动就是坚持超能新星汇",
+        "label": 2
+    },
+    "4220": {
+        "direct_path": "train/img_html_news/3641",
+        "inv_path": "train/inverse_search/3641",
+        "image_path": "train/img/3641.jpg",
+        "caption": "20230406四川甘孜猴子迁徙 网页链接",
+        "label": 2
+    },
+    "781": {
+        "direct_path": "train/img_html_news/202",
+        "inv_path": "train/inverse_search/202",
+        "image_path": "train/img/202.jpg",
+        "caption": "临沂大学 郑州大学都放假了临沂大学还在坚持什么 ",
+        "label": 1
+    },
+    "3044": {
+        "direct_path": "train/img_html_news/2465",
+        "inv_path": "train/inverse_search/2465",
+        "image_path": "train/img/2465.jpg",
+        "caption": "网传清华女博士报考协警最新通报针对网传清华女博士报考长沙岳麓区协警情况岳麓区人力资源和社会保障局会同公安分局迅速开展调查核实",
+        "label": 0
+    },
+    "934": {
+        "direct_path": "train/img_html_news/355",
+        "inv_path": "train/inverse_search/355",
+        "image_path": "train/img/355.jpg",
+        "caption": "韩国民众在汉江拍到水怪鉴定为挂住的塑料 ",
+        "label": 1
+    },
+    "2566": {
+        "direct_path": "train/img_html_news/1987",
+        "inv_path": "train/inverse_search/1987",
+        "image_path": "train/img/1987.jpg",
+        "caption": "5月20日0时至24时四川新增本土确诊病例32例在广安",
+        "label": 0
+    },
+    "6152": {
+        "direct_path": "train/img_html_news/5573",
+        "inv_path": "train/inverse_search/5573",
+        "image_path": "train/img/5573.jpg",
+        "caption": "奔现了",
+        "label": 2
+    },
+    "812": {
+        "direct_path": "train/img_html_news/233",
+        "inv_path": "train/inverse_search/233",
+        "image_path": "train/img/233.jpg",
+        "caption": "这下可以放心去峨眉山了哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈笑声回收计划 ",
+        "label": 1
+    },
+    "5853": {
+        "direct_path": "train/img_html_news/5274",
+        "inv_path": "train/inverse_search/5274",
+        "image_path": "train/img/5274.jpg",
+        "caption": "不是这是白露生图",
+        "label": 2
+    },
+    "3643": {
+        "direct_path": "train/img_html_news/3064",
+        "inv_path": "train/inverse_search/3064",
+        "image_path": "train/img/3064.jpg",
+        "caption": "广州增本土确诊1例无症状1例7月13日024时广东省新增本土确诊病例32例广州1例",
+        "label": 0
+    },
+    "4376": {
+        "direct_path": "train/img_html_news/3797",
+        "inv_path": "train/inverse_search/3797",
+        "image_path": "train/img/3797.jpg",
+        "caption": "在微信状态养个懒羊羊好可爱",
+        "label": 2
+    },
+    "801": {
+        "direct_path": "train/img_html_news/222",
+        "inv_path": "train/inverse_search/222",
+        "image_path": "train/img/222.jpg",
+        "caption": "玛莎拉蒂司机17分钟吹气66次女方醉驾接受检查的时候态度恶劣而且一直叫嚣让余炜过来这个区公安分局局长就是她要找的人么 ",
+        "label": 1
+    },
+    "5924": {
+        "direct_path": "train/img_html_news/5345",
+        "inv_path": "train/inverse_search/5345",
+        "image_path": "train/img/5345.jpg",
+        "caption": "做了一条裙子高叶ChLoe",
+        "label": 2
+    },
+    "2878": {
+        "direct_path": "train/img_html_news/2299",
+        "inv_path": "train/inverse_search/2299",
+        "image_path": "train/img/2299.jpg",
+        "caption": "上海新增社会面本土感染者6例今天9日下午举行的上海市疫情防控新闻发布会通报9日017时",
+        "label": 0
+    },
+    "5653": {
+        "direct_path": "train/img_html_news/5074",
+        "inv_path": "train/inverse_search/5074",
+        "image_path": "train/img/5074.jpg",
+        "caption": "放在古代怎得混个诗人当当",
+        "label": 2
+    },
+    "1235": {
+        "direct_path": "train/img_html_news/656",
+        "inv_path": "train/inverse_search/656",
+        "image_path": "train/img/656.jpg",
+        "caption": "网传丹东倒地哥是假警察真实身份被扒出袭警罪是莫须有丹东 ",
+        "label": 1
+    },
+    "5550": {
+        "direct_path": "train/img_html_news/4971",
+        "inv_path": "train/inverse_search/4971",
+        "image_path": "train/img/4971.jpg",
+        "caption": "",
+        "label": 2
+    },
+    "6656": {
+        "direct_path": "train/img_html_news/6077",
+        "inv_path": "train/inverse_search/6077",
+        "image_path": "train/img/6077.jpg",
+        "caption": "极简风太适合没什么钱的年轻人了 家居软装",
+        "label": 2
+    },
+    "1667": {
+        "direct_path": "train/img_html_news/1088",
+        "inv_path": "train/inverse_search/1088",
+        "image_path": "train/img/1088.jpg",
+        "caption": "分享图片 ",
+        "label": 1
+    },
+    "1719": {
+        "direct_path": "train/img_html_news/1140",
+        "inv_path": "train/inverse_search/1140",
+        "image_path": "train/img/1140.jpg",
+        "caption": "这种悲剧真的不能避免汗汗 ",
+        "label": 1
+    },
+    "4487": {
+        "direct_path": "train/img_html_news/3908",
+        "inv_path": "train/inverse_search/3908",
+        "image_path": "train/img/3908.jpg",
+        "caption": "这小子是懂同桌的",
+        "label": 2
+    },
+    "2014": {
+        "direct_path": "train/img_html_news/1435",
+        "inv_path": "train/inverse_search/1435",
+        "image_path": "train/img/1435.jpg",
+        "caption": " 2022载人航天哪些环节值得期待建成常年有人照料的中国空间站",
+        "label": 0
+    },
+    "3109": {
+        "direct_path": "train/img_html_news/2530",
+        "inv_path": "train/inverse_search/2530",
+        "image_path": "train/img/2530.jpg",
+        "caption": " 警情通报3月20日18时44分许冷水滩公安分局接到李某珠女36岁报警称 其在经营的快递收发站内",
+        "label": 0
+    },
+    "5864": {
+        "direct_path": "train/img_html_news/5285",
+        "inv_path": "train/inverse_search/5285",
+        "image_path": "train/img/5285.jpg",
+        "caption": "由于有这棵树的照看快递外卖这么放着都不会丢而且整天都没人取",
+        "label": 2
+    },
+    "3627": {
+        "direct_path": "train/img_html_news/3048",
+        "inv_path": "train/inverse_search/3048",
+        "image_path": "train/img/3048.jpg",
+        "caption": "江西丰城全员核酸检测8月11日记者从江西省丰城市新冠肺炎疫情防控应急指挥部办公室获悉",
+        "label": 0
+    },
+    "967": {
+        "direct_path": "train/img_html_news/388",
+        "inv_path": "train/inverse_search/388",
+        "image_path": "train/img/388.jpg",
+        "caption": "警方通报呼和浩特一女子坠亡警方通报呼和浩特一女子坠亡最可怕的不是疫情而是人性的泯灭 ",
+        "label": 1
+    },
+    "2805": {
+        "direct_path": "train/img_html_news/2226",
+        "inv_path": "train/inverse_search/2226",
+        "image_path": "train/img/2226.jpg",
+        "caption": "首批滞留三亚旅客将乘机返回 8月9日首批因疫情滞留三亚的旅客在海棠湾一酒店内核验身份证核酸阴性证明等相应信息后",
+        "label": 0
+    },
+    "7674": {
+        "direct_path": "val/img_html_news/689",
+        "inv_path": "val/inverse_search/689",
+        "image_path": "val/img/689.jpg",
+        "caption": "这俩人这是穿错裤子了吧看着怪怪的",
+        "label": 2
+    },
+    "6197": {
+        "direct_path": "train/img_html_news/5618",
+        "inv_path": "train/inverse_search/5618",
+        "image_path": "train/img/5618.jpg",
+        "caption": "真就有人自带滤镜啊",
+        "label": 2
+    },
+    "1218": {
+        "direct_path": "train/img_html_news/639",
+        "inv_path": "train/inverse_search/639",
+        "image_path": "train/img/639.jpg",
+        "caption": "七个人打了人家两个小时推一个最小的14岁的出来顶其他的都1617岁听说 校长是打人者的舅舅校长家的孩子也参与了 校长吴恒卫高中的孩子打初中的",
+        "label": 1
+    },
+    "7496": {
+        "direct_path": "val/img_html_news/511",
+        "inv_path": "val/inverse_search/511",
+        "image_path": "val/img/511.jpg",
+        "caption": "我在酒吧碰到明星了小姨妈",
+        "label": 2
+    },
+    "2072": {
+        "direct_path": "train/img_html_news/1493",
+        "inv_path": "train/inverse_search/1493",
+        "image_path": "train/img/1493.jpg",
+        "caption": "日本一男子因称在东京塔放置炸弹被捕 据日本朝日电视台17日报道日本一男子15日给警视厅发邮件称",
+        "label": 0
+    },
+    "4740": {
+        "direct_path": "train/img_html_news/4161",
+        "inv_path": "train/inverse_search/4161",
+        "image_path": "train/img/4161.jpg",
+        "caption": " 北京北京中山公园",
+        "label": 2
+    },
+    "6541": {
+        "direct_path": "train/img_html_news/5962",
+        "inv_path": "train/inverse_search/5962",
+        "image_path": "train/img/5962.jpg",
+        "caption": "当我在一群肌肉男中 我的表情 be like",
+        "label": 2
+    },
+    "3531": {
+        "direct_path": "train/img_html_news/2952",
+        "inv_path": "train/inverse_search/2952",
+        "image_path": "train/img/2952.jpg",
+        "caption": "据澳大利亚新闻网报道澳大利亚首席医疗官保罗凯利当地时间28日宣布",
+        "label": 0
+    },
+    "5900": {
+        "direct_path": "train/img_html_news/5321",
+        "inv_path": "train/inverse_search/5321",
+        "image_path": "train/img/5321.jpg",
+        "caption": "法拉利麻了",
+        "label": 2
+    },
+    "490": {
+        "direct_path": "test/img_html_news/1219",
+        "inv_path": "test/inverse_search/1219",
+        "image_path": "test/img/1219.jpg",
+        "caption": "全宝蓝20230916宝蓝推特更新1p剪短发前五分钟）fromBoram0322",
+        "label": 2
+    },
+    "6779": {
+        "direct_path": "train/img_html_news/6200",
+        "inv_path": "train/inverse_search/6200",
+        "image_path": "train/img/6200.jpg",
+        "caption": "语文老师发的仿写小练笔 最后两位是班上写作文比较厉害的小孩她俩每次都写得比较长除了构思快书写速度也比较快 室友写字就很慢 一姐日常",
+        "label": 2
+    },
+    "5199": {
+        "direct_path": "train/img_html_news/4620",
+        "inv_path": "train/inverse_search/4620",
+        "image_path": "train/img/4620.jpg",
+        "caption": "185 体育生 黑皮",
+        "label": 2
+    },
+    "4677": {
+        "direct_path": "train/img_html_news/4098",
+        "inv_path": "train/inverse_search/4098",
+        "image_path": "train/img/4098.jpg",
+        "caption": "著名留学生好年轻",
+        "label": 2
+    },
+    "5603": {
+        "direct_path": "train/img_html_news/5024",
+        "inv_path": "train/inverse_search/5024",
+        "image_path": "train/img/5024.jpg",
+        "caption": "屁股太大了 这喇叭裤只能在家拍照穿 穿出门显得我很奇怪",
+        "label": 2
+    },
+    "6732": {
+        "direct_path": "train/img_html_news/6153",
+        "inv_path": "train/inverse_search/6153",
+        "image_path": "train/img/6153.jpg",
+        "caption": "送给23岁的自己 上饶信州区朝阳中心卫生院",
+        "label": 2
+    },
+    "2288": {
+        "direct_path": "train/img_html_news/1709",
+        "inv_path": "train/inverse_search/1709",
+        "image_path": "train/img/1709.jpg",
+        "caption": " 当地时间3月22日在巴西中部的戈亚斯州首府戈亚尼亚市发生小型飞机坠毁事故",
+        "label": 0
+    },
+    "2303": {
+        "direct_path": "train/img_html_news/1724",
+        "inv_path": "train/inverse_search/1724",
+        "image_path": "train/img/1724.jpg",
+        "caption": "警方悬赏10万征集持枪伤人案嫌犯线索2022年7月26日四川省沐川县发生一起持枪击伤2人持械杀害3人的重大刑事案件",
+        "label": 0
+    },
+    "5113": {
+        "direct_path": "train/img_html_news/4534",
+        "inv_path": "train/inverse_search/4534",
+        "image_path": "train/img/4534.jpg",
+        "caption": "和我一起寻找吧",
+        "label": 2
+    },
+    "4894": {
+        "direct_path": "train/img_html_news/4315",
+        "inv_path": "train/inverse_search/4315",
+        "image_path": "train/img/4315.jpg",
+        "caption": "这菠萝切的是认真的吗 不如不提供",
+        "label": 2
+    },
+    "811": {
+        "direct_path": "train/img_html_news/232",
+        "inv_path": "train/inverse_search/232",
+        "image_path": "train/img/232.jpg",
+        "caption": "为什么不劈这 ",
+        "label": 1
+    },
+    "6675": {
+        "direct_path": "train/img_html_news/6096",
+        "inv_path": "train/inverse_search/6096",
+        "image_path": "train/img/6096.jpg",
+        "caption": "刷到这个走秀这才是人类的秀场吧各种身材的优秀模特都有 无论高矮胖瘦 每个人都有自己的美",
+        "label": 2
+    },
+    "6005": {
+        "direct_path": "train/img_html_news/5426",
+        "inv_path": "train/inverse_search/5426",
+        "image_path": "train/img/5426.jpg",
+        "caption": "经典名场面",
+        "label": 2
+    },
+    "7283": {
+        "direct_path": "val/img_html_news/298",
+        "inv_path": "val/inverse_search/298",
+        "image_path": "val/img/298.jpg",
+        "caption": "三只松鼠 25日发布关于产品脱氧剂破损情况的说明回应三只松鼠脱氧剂泄露致孕妇误食事件",
+        "label": 0
+    },
+    "6804": {
+        "direct_path": "train/img_html_news/6225",
+        "inv_path": "train/inverse_search/6225",
+        "image_path": "train/img/6225.jpg",
+        "caption": "我以为是每次没洗干净才这样 原来是洗太干净了",
+        "label": 2
+    },
+    "3364": {
+        "direct_path": "train/img_html_news/2785",
+        "inv_path": "train/inverse_search/2785",
+        "image_path": "train/img/2785.jpg",
+        "caption": " 2023年3月28日中国海油与道达尔能源通过上海石油天然气交易中心平台完成国内首单以人民币结算的进口液化天然气LNG采购交易",
+        "label": 0
+    },
+    "1007": {
+        "direct_path": "train/img_html_news/428",
+        "inv_path": "train/inverse_search/428",
+        "image_path": "train/img/428.jpg",
+        "caption": "无语 ",
+        "label": 1
+    },
+    "4714": {
+        "direct_path": "train/img_html_news/4135",
+        "inv_path": "train/inverse_search/4135",
+        "image_path": "train/img/4135.jpg",
+        "caption": "一些可爱的手机壁纸",
+        "label": 2
+    },
+    "3579": {
+        "direct_path": "train/img_html_news/3000",
+        "inv_path": "train/inverse_search/3000",
+        "image_path": "train/img/3000.jpg",
+        "caption": "4月8日据央视记者从国家移民管理局广西出入境边防检查总站了解到",
+        "label": 0
+    },
+    "3611": {
+        "direct_path": "train/img_html_news/3032",
+        "inv_path": "train/inverse_search/3032",
+        "image_path": "train/img/3032.jpg",
+        "caption": "据法新社报道巴西政府周三表示",
+        "label": 0
+    },
+    "3061": {
+        "direct_path": "train/img_html_news/2482",
+        "inv_path": "train/inverse_search/2482",
+        "image_path": "train/img/2482.jpg",
+        "caption": "据韩联社报道韩国教育部28日以发言人名义发表声明",
+        "label": 0
+    },
+    "6351": {
+        "direct_path": "train/img_html_news/5772",
+        "inv_path": "train/inverse_search/5772",
+        "image_path": "train/img/5772.jpg",
+        "caption": "电影版的赤木晴子和以前版本的对比 可能为了更写实证明和赤木是兄妹",
+        "label": 2
+    },
+    "1356": {
+        "direct_path": "train/img_html_news/777",
+        "inv_path": "train/inverse_search/777",
+        "image_path": "train/img/777.jpg",
+        "caption": "这架被俄罗斯苏27战斗机逼得跳海自尽的死神无人机够狠不但自己死翘翘还拉了个垫背的这不刚刚为死神无人机坠海一事对俄罗斯进行了不安全不专业的严厉谴",
+        "label": 1
+    },
+    "4694": {
+        "direct_path": "train/img_html_news/4115",
+        "inv_path": "train/inverse_search/4115",
+        "image_path": "train/img/4115.jpg",
+        "caption": "办公室一天讲不了10句话我可以一天一句话都没有下了班就开始疯狂输出4月奇趣季",
+        "label": 2
+    },
+    "5290": {
+        "direct_path": "train/img_html_news/4711",
+        "inv_path": "train/inverse_search/4711",
+        "image_path": "train/img/4711.jpg",
+        "caption": "一个南方一个北方你猜",
+        "label": 2
+    },
+    "3972": {
+        "direct_path": "train/img_html_news/3393",
+        "inv_path": "train/inverse_search/3393",
+        "image_path": "train/img/3393.jpg",
+        "caption": "6月28日0时至24时北京无新增本土确诊病例疑似病例",
+        "label": 0
+    },
+    "4825": {
+        "direct_path": "train/img_html_news/4246",
+        "inv_path": "train/inverse_search/4246",
+        "image_path": "train/img/4246.jpg",
+        "caption": "好爱王一博素颜",
+        "label": 2
+    },
+    "1706": {
+        "direct_path": "train/img_html_news/1127",
+        "inv_path": "train/inverse_search/1127",
+        "image_path": "train/img/1127.jpg",
+        "caption": "苦涩 ",
+        "label": 1
+    },
+    "4178": {
+        "direct_path": "train/img_html_news/3599",
+        "inv_path": "train/inverse_search/3599",
+        "image_path": "train/img/3599.jpg",
+        "caption": "你们是真的懂摆烂的",
+        "label": 2
+    },
+    "4477": {
+        "direct_path": "train/img_html_news/3898",
+        "inv_path": "train/inverse_search/3898",
+        "image_path": "train/img/3898.jpg",
+        "caption": "小金鱼的新皮肤有点东西哦 原来是以为征服的是大海没想到是星辰大海 这波是直接从征服世界提升到征服宇宙了嘛 宇宙第一扇子醒目 航天服的设计很独特甚至氧气罩都是兔耳的hhh 高科技感中带着一份可爱 直接一个三技能和小金鱼一起航行去咯 金鱼姬致梦星穹",
+        "label": 2
+    },
+    "1629": {
+        "direct_path": "train/img_html_news/1050",
+        "inv_path": "train/inverse_search/1050",
+        "image_path": "train/img/1050.jpg",
+        "caption": "真该死啊 ",
+        "label": 1
+    },
+    "202": {
+        "direct_path": "test/img_html_news/931",
+        "inv_path": "test/inverse_search/931",
+        "image_path": "test/img/931.jpg",
+        "caption": "据路透社15日援引俄媒消息报道，俄罗斯法院判定一名俄罗斯男子犯有叛国罪，被判处其12.5年监禁，罪行是应美国情报部门的要求向美国发送导弹部件。报道称，这名男子名叫谢尔盖·卡巴诺夫，被控曾走私俄罗斯防空",
+        "label": 0
+    },
+    "4918": {
+        "direct_path": "train/img_html_news/4339",
+        "inv_path": "train/inverse_search/4339",
+        "image_path": "train/img/4339.jpg",
+        "caption": "主打的就是一个迷信 吃了以后就能变硕士",
+        "label": 2
+    },
+    "5229": {
+        "direct_path": "train/img_html_news/4650",
+        "inv_path": "train/inverse_search/4650",
+        "image_path": "train/img/4650.jpg",
+        "caption": "众志成城保供电线路巡视 确保能源大动脉稳定畅通4月17日国网恩施供电公司检修分公司输电运维人员对辖区内800千伏建苏线进行巡视检查田宏涛",
+        "label": 2
+    },
+    "2157": {
+        "direct_path": "train/img_html_news/1578",
+        "inv_path": "train/inverse_search/1578",
+        "image_path": "train/img/1578.jpg",
+        "caption": "为让学生亲身体验国家历史文化和最新国情香港推行高中公民与社会发展科",
+        "label": 0
+    },
+    "2723": {
+        "direct_path": "train/img_html_news/2144",
+        "inv_path": "train/inverse_search/2144",
+        "image_path": "train/img/2144.jpg",
+        "caption": "根据上海市最新发布的上海市加快经济恢复和重振行动方案针对复工复产卡点堵点",
+        "label": 0
+    },
+    "5029": {
+        "direct_path": "train/img_html_news/4450",
+        "inv_path": "train/inverse_search/4450",
+        "image_path": "train/img/4450.jpg",
+        "caption": "为什么大学生都喜欢用标准版的iphone",
+        "label": 2
+    },
+    "2898": {
+        "direct_path": "train/img_html_news/2319",
+        "inv_path": "train/inverse_search/2319",
+        "image_path": "train/img/2319.jpg",
+        "caption": "近日中科院植物所团队在西藏考察时",
+        "label": 0
+    },
+    "5616": {
+        "direct_path": "train/img_html_news/5037",
+        "inv_path": "train/inverse_search/5037",
+        "image_path": "train/img/5037.jpg",
+        "caption": "丫丫在美国被中方正式接管每天新鲜竹子不限量供应丫丫肉眼可见每天都很开心胖了许多精神了许多月底开完会正式回国啦啦啦啦啦开心",
+        "label": 2
+    },
+    "2707": {
+        "direct_path": "train/img_html_news/2128",
+        "inv_path": "train/inverse_search/2128",
+        "image_path": "train/img/2128.jpg",
+        "caption": "TikTok首席执行官周受资23日出席美国国会众议院能源和商业委员会听证会回应美国议员所谓国家安全等方面质询",
+        "label": 0
+    },
+    "5180": {
+        "direct_path": "train/img_html_news/4601",
+        "inv_path": "train/inverse_search/4601",
+        "image_path": "train/img/4601.jpg",
+        "caption": "那一刻真的很爱大学",
+        "label": 2
+    },
+    "2182": {
+        "direct_path": "train/img_html_news/1603",
+        "inv_path": "train/inverse_search/1603",
+        "image_path": "train/img/1603.jpg",
+        "caption": "菲律宾海岸警卫队4月5日公布消息称海岸警卫队当天在上月发生渡轮起火事故的巴西兰省附近海域发现两具遗体",
+        "label": 0
+    },
+    "2021": {
+        "direct_path": "train/img_html_news/1442",
+        "inv_path": "train/inverse_search/1442",
+        "image_path": "train/img/1442.jpg",
+        "caption": "4月18日024时上海新增本土新冠肺炎确诊病例3084例含既往无症状感染者转为确诊病例974例和无症状感染者17332例",
+        "label": 0
+    },
+    "6250": {
+        "direct_path": "train/img_html_news/5671",
+        "inv_path": "train/inverse_search/5671",
+        "image_path": "train/img/5671.jpg",
+        "caption": "鹿晗说凯程就算你现在没工作也没关系只要坚持下去万一下个月就有了呢哈哈哈哈哈谢谢你借你吉言好人一生平安祝你生日快乐谁能帮我把第最后一张照片p上对话M鹿M",
+        "label": 2
+    },
+    "1488": {
+        "direct_path": "train/img_html_news/909",
+        "inv_path": "train/inverse_search/909",
+        "image_path": "train/img/909.jpg",
+        "caption": "郑州核酸检测点最新情况郑州你到底想干啥 ",
+        "label": 1
+    },
+    "5546": {
+        "direct_path": "train/img_html_news/4967",
+        "inv_path": "train/inverse_search/4967",
+        "image_path": "train/img/4967.jpg",
+        "caption": "这辈子吃过最贵的火锅花了6k7 吃完把贝壳和装盘花打包回家一毛钱都不想白花",
+        "label": 2
+    },
+    "582": {
+        "direct_path": "train/img_html_news/3",
+        "inv_path": "train/inverse_search/3",
+        "image_path": "train/img/3.jpg",
+        "caption": "啊 ",
+        "label": 1
+    },
+    "59": {
+        "direct_path": "test/img_html_news/788",
+        "inv_path": "test/inverse_search/788",
+        "image_path": "test/img/788.jpg",
+        "caption": "成都一高校被指拒绝快递进校心寒 作为学生确实没有任何一点敢跟亲朋好友提起这个学校的底气",
+        "label": 1
+    },
+    "3691": {
+        "direct_path": "train/img_html_news/3112",
+        "inv_path": "train/inverse_search/3112",
+        "image_path": "train/img/3112.jpg",
+        "caption": "七国集团领导人特别峰会24日在布鲁塞尔召开会后公报称",
+        "label": 0
+    },
+    "1986": {
+        "direct_path": "train/img_html_news/1407",
+        "inv_path": "train/inverse_search/1407",
+        "image_path": "train/img/1407.jpg",
+        "caption": "华科大宿舍被雷劈了纪念一个华科热搜第一隔壁楼栋 ",
+        "label": 1
+    },
+    "5633": {
+        "direct_path": "train/img_html_news/5054",
+        "inv_path": "train/inverse_search/5054",
+        "image_path": "train/img/5054.jpg",
+        "caption": "WeChat背景图来看看吧",
+        "label": 2
+    },
+    "7575": {
+        "direct_path": "val/img_html_news/590",
+        "inv_path": "val/inverse_search/590",
+        "image_path": "val/img/590.jpg",
+        "caption": "最近用的表情包 表情包",
+        "label": 2
+    },
+    "5296": {
+        "direct_path": "train/img_html_news/4717",
+        "inv_path": "train/inverse_search/4717",
+        "image_path": "train/img/4717.jpg",
+        "caption": "男朋友学生时期朋友写的这个叫什么字",
+        "label": 2
+    },
+    "7351": {
+        "direct_path": "val/img_html_news/366",
+        "inv_path": "val/inverse_search/366",
+        "image_path": "val/img/366.jpg",
+        "caption": "新疆新增无症状334例8月12日0至24时新疆维吾尔自治区新增确诊病例2例为无症状感染者转确诊病例",
+        "label": 0
+    },
+    "6123": {
+        "direct_path": "train/img_html_news/5544",
+        "inv_path": "train/inverse_search/5544",
+        "image_path": "train/img/5544.jpg",
+        "caption": "原来真的有很多人不知道",
+        "label": 2
+    },
+    "5015": {
+        "direct_path": "train/img_html_news/4436",
+        "inv_path": "train/inverse_search/4436",
+        "image_path": "train/img/4436.jpg",
+        "caption": "对付这种人就应该这样",
+        "label": 2
+    },
+    "7553": {
+        "direct_path": "val/img_html_news/568",
+        "inv_path": "val/inverse_search/568",
+        "image_path": "val/img/568.jpg",
+        "caption": "王鸥 王鸥大侦探第八季 大侦探8收官 鸥侦探王鸥Angel 收官快乐第八季共解锁了六个案件创作了五个令人难忘的角色给大家带来了无数感动和新奇的体验优秀如你 我们下一季见",
+        "label": 2
+    },
+    "4103": {
+        "direct_path": "train/img_html_news/3524",
+        "inv_path": "train/inverse_search/3524",
+        "image_path": "train/img/3524.jpg",
+        "caption": "",
+        "label": 2
+    },
+    "3000": {
+        "direct_path": "train/img_html_news/2421",
+        "inv_path": "train/inverse_search/2421",
+        "image_path": "train/img/2421.jpg",
+        "caption": " 在13日举行的外交部例行记者会上有记者提问称",
+        "label": 0
+    },
+    "534": {
+        "direct_path": "test/img_html_news/1263",
+        "inv_path": "test/inverse_search/1263",
+        "image_path": "test/img/1263.jpg",
+        "caption": "涨了1有没有人想知道怎么做到的",
+        "label": 2
+    },
+    "3554": {
+        "direct_path": "train/img_html_news/2975",
+        "inv_path": "train/inverse_search/2975",
+        "image_path": "train/img/2975.jpg",
+        "caption": " 欧盟外交与安全政策高级代表博雷利12号称因新冠检测呈阳性",
+        "label": 0
+    },
+    "707": {
+        "direct_path": "train/img_html_news/128",
+        "inv_path": "train/inverse_search/128",
+        "image_path": "train/img/128.jpg",
+        "caption": "大连高校解封了吗?会不会有所改变呢 ",
+        "label": 1
+    },
+    "2": {
+        "direct_path": "test/img_html_news/731",
+        "inv_path": "test/inverse_search/731",
+        "image_path": "test/img/731.jpg",
+        "caption": "额",
+        "label": 1
+    },
+    "752": {
+        "direct_path": "train/img_html_news/173",
+        "inv_path": "train/inverse_search/173",
+        "image_path": "train/img/173.jpg",
+        "caption": "重庆核酸造假感冒生病吐 ",
+        "label": 1
+    },
+    "5469": {
+        "direct_path": "train/img_html_news/4890",
+        "inv_path": "train/inverse_search/4890",
+        "image_path": "train/img/4890.jpg",
+        "caption": "本人实用的表情包",
+        "label": 2
+    },
+    "7264": {
+        "direct_path": "val/img_html_news/279",
+        "inv_path": "val/inverse_search/279",
+        "image_path": "val/img/279.jpg",
+        "caption": "4月12日工业和信息化部部长金壮龙在京会见英特尔公司首席执行官帕特基辛格",
+        "label": 0
+    },
+    "6949": {
+        "direct_path": "train/img_html_news/6370",
+        "inv_path": "train/inverse_search/6370",
+        "image_path": "train/img/6370.jpg",
+        "caption": "日本的漫画周榜蓝色监狱的漫画比动画更好看但是追更确实累",
+        "label": 2
+    },
+    "5820": {
+        "direct_path": "train/img_html_news/5241",
+        "inv_path": "train/inverse_search/5241",
+        "image_path": "train/img/5241.jpg",
+        "caption": "安徽黄山狠狠圈粉了 真的很想去啊",
+        "label": 2
+    },
+    "5743": {
+        "direct_path": "train/img_html_news/5164",
+        "inv_path": "train/inverse_search/5164",
+        "image_path": "train/img/5164.jpg",
+        "caption": "携手并肩窦骁",
+        "label": 2
+    },
+    "6528": {
+        "direct_path": "train/img_html_news/5949",
+        "inv_path": "train/inverse_search/5949",
+        "image_path": "train/img/5949.jpg",
+        "caption": "如果发生战争是否应当优先征召35岁以上的男士入伍?",
+        "label": 2
+    },
+    "6470": {
+        "direct_path": "train/img_html_news/5891",
+        "inv_path": "train/inverse_search/5891",
+        "image_path": "train/img/5891.jpg",
+        "caption": "杨超越",
+        "label": 2
+    },
+    "1560": {
+        "direct_path": "train/img_html_news/981",
+        "inv_path": "train/inverse_search/981",
+        "image_path": "train/img/981.jpg",
+        "caption": "四川1小时内连发7次地震群里看到的 衰衰可怕 ",
+        "label": 1
+    },
+    "4423": {
+        "direct_path": "train/img_html_news/3844",
+        "inv_path": "train/inverse_search/3844",
+        "image_path": "train/img/3844.jpg",
+        "caption": "1985年的四川都江堰",
+        "label": 2
+    },
+    "4450": {
+        "direct_path": "train/img_html_news/3871",
+        "inv_path": "train/inverse_search/3871",
+        "image_path": "train/img/3871.jpg",
+        "caption": "清醒点",
+        "label": 2
+    },
+    "7421": {
+        "direct_path": "val/img_html_news/436",
+        "inv_path": "val/inverse_search/436",
+        "image_path": "val/img/436.jpg",
+        "caption": "有一天我也会像它一样自由了",
+        "label": 2
+    },
+    "3177": {
+        "direct_path": "train/img_html_news/2598",
+        "inv_path": "train/inverse_search/2598",
+        "image_path": "train/img/2598.jpg",
+        "caption": "记者30日从中国国家铁路集团有限公司获悉为全面贯彻中央稳住经济大盘部署要求",
+        "label": 0
+    },
+    "3602": {
+        "direct_path": "train/img_html_news/3023",
+        "inv_path": "train/inverse_search/3023",
+        "image_path": "train/img/3023.jpg",
+        "caption": "据广西气象 目前冷空气前锋已到达桂林南部到贺州北部一带预计将于今晚后半夜开始影响广西藤县",
+        "label": 0
+    },
+    "6794": {
+        "direct_path": "train/img_html_news/6215",
+        "inv_path": "train/inverse_search/6215",
+        "image_path": "train/img/6215.jpg",
+        "caption": "恭喜孩子们出道 章昊 第一中国首C 沈泉锐RICKY 第四 金奎彬GyuVin 第七 韩维辰 第九 太激动了孩子们你们太棒了为你们骄傲你们终于圆梦了替你们高兴",
+        "label": 2
+    },
+    "6659": {
+        "direct_path": "train/img_html_news/6080",
+        "inv_path": "train/inverse_search/6080",
+        "image_path": "train/img/6080.jpg",
+        "caption": "柜姐要我确认买了才肯给我试戴",
+        "label": 2
+    },
+    "3367": {
+        "direct_path": "train/img_html_news/2788",
+        "inv_path": "train/inverse_search/2788",
+        "image_path": "train/img/2788.jpg",
+        "caption": "2022年8月27日024时三亚市新增50例确诊病例其中34例为无症状感染者转归82例无症状感染者",
+        "label": 0
+    },
+    "2621": {
+        "direct_path": "train/img_html_news/2042",
+        "inv_path": "train/inverse_search/2042",
+        "image_path": "train/img/2042.jpg",
+        "caption": "成都市新型冠状病毒肺炎疫情防控指挥部决定自9月1日至9月4日在全市范围内开展全员核酸检测自9月1日18时起",
+        "label": 0
+    },
+    "1832": {
+        "direct_path": "train/img_html_news/1253",
+        "inv_path": "train/inverse_search/1253",
+        "image_path": "train/img/1253.jpg",
+        "caption": "网友烈士子女高考加20分引起其他家长不满女孩哭着说我把20分给你们你们能把爸爸还给我吗悲伤 ",
+        "label": 1
+    },
+    "2957": {
+        "direct_path": "train/img_html_news/2378",
+        "inv_path": "train/inverse_search/2378",
+        "image_path": "train/img/2378.jpg",
+        "caption": "8月26日024时31个省自治区直辖市和新疆生产建设兵团报告新增确诊病例300例",
+        "label": 0
+    },
+    "4402": {
+        "direct_path": "train/img_html_news/3823",
+        "inv_path": "train/inverse_search/3823",
+        "image_path": "train/img/3823.jpg",
+        "caption": "她是不是要进内娱了",
+        "label": 2
+    },
+    "5108": {
+        "direct_path": "train/img_html_news/4529",
+        "inv_path": "train/inverse_search/4529",
+        "image_path": "train/img/4529.jpg",
+        "caption": "关晓彤发的鹿晗庆生博热转竟然是你分手了吗藏头诗这么久了还没接受现实吗",
+        "label": 2
+    },
+    "5414": {
+        "direct_path": "train/img_html_news/4835",
+        "inv_path": "train/inverse_search/4835",
+        "image_path": "train/img/4835.jpg",
+        "caption": "春天的感觉总是生机勃勃有微风有夕阳一切都是那么美好看着太阳一点点落下黄昏伴着春风而来学会在时间里享受自己的golden hour我的治愈时刻",
+        "label": 2
+    },
+    "1212": {
+        "direct_path": "train/img_html_news/633",
+        "inv_path": "train/inverse_search/633",
+        "image_path": "train/img/633.jpg",
+        "caption": "不信谣不传谣恒大广州恒大许家印跳楼 ",
+        "label": 1
+    },
+    "7472": {
+        "direct_path": "val/img_html_news/487",
+        "inv_path": "val/inverse_search/487",
+        "image_path": "val/img/487.jpg",
+        "caption": "替雷宇玩一些梗",
+        "label": 2
+    },
+    "1272": {
+        "direct_path": "train/img_html_news/693",
+        "inv_path": "train/inverse_search/693",
+        "image_path": "train/img/693.jpg",
+        "caption": "原不想它來現不讓它走一天不核酸心里就慌張 ",
+        "label": 1
+    },
+    "4121": {
+        "direct_path": "train/img_html_news/3542",
+        "inv_path": "train/inverse_search/3542",
+        "image_path": "train/img/3542.jpg",
+        "caption": "俺滴老板 也就招了三届四个学生 在今年 杀格了",
+        "label": 2
+    },
+    "6180": {
+        "direct_path": "train/img_html_news/5601",
+        "inv_path": "train/inverse_search/5601",
+        "image_path": "train/img/5601.jpg",
+        "caption": "有没有合肥的姐妹过来一起笑",
+        "label": 2
+    },
+    "1692": {
+        "direct_path": "train/img_html_news/1113",
+        "inv_path": "train/inverse_search/1113",
+        "image_path": "train/img/1113.jpg",
+        "caption": "无法无天女孩子一个人坐电梯要小心了 ",
+        "label": 1
+    },
+    "6773": {
+        "direct_path": "train/img_html_news/6194",
+        "inv_path": "train/inverse_search/6194",
+        "image_path": "train/img/6194.jpg",
+        "caption": "在回顾跑男这一期 卧槽当年看这段没给我吓死了",
+        "label": 2
+    },
+    "6774": {
+        "direct_path": "train/img_html_news/6195",
+        "inv_path": "train/inverse_search/6195",
+        "image_path": "train/img/6195.jpg",
+        "caption": "这就忍不住来炫耀仅自己和对象拥有的小金标啦",
+        "label": 2
+    },
+    "7180": {
+        "direct_path": "val/img_html_news/195",
+        "inv_path": "val/inverse_search/195",
+        "image_path": "val/img/195.jpg",
+        "caption": "7月13日024时31个省自治区直辖市和新疆生产建设兵团报告新增确诊病例121例",
+        "label": 0
+    },
+    "4801": {
+        "direct_path": "train/img_html_news/4222",
+        "inv_path": "train/inverse_search/4222",
+        "image_path": "train/img/4222.jpg",
+        "caption": "今天当小伴娘啦",
+        "label": 2
+    },
+    "2196": {
+        "direct_path": "train/img_html_news/1617",
+        "inv_path": "train/inverse_search/1617",
+        "image_path": "train/img/1617.jpg",
+        "caption": "据路透社报道沙特阿拉伯内阁3月29日批准了加入上海合作组织的决定",
+        "label": 0
+    },
+    "1596": {
+        "direct_path": "train/img_html_news/1017",
+        "inv_path": "train/inverse_search/1017",
+        "image_path": "train/img/1017.jpg",
+        "caption": "师大效率泪 ",
+        "label": 1
+    },
+    "496": {
+        "direct_path": "test/img_html_news/1225",
+        "inv_path": "test/inverse_search/1225",
+        "image_path": "test/img/1225.jpg",
+        "caption": "综合素质23年4月第1版与22年4月第1版书中，对于22年上第13题的答案不一样。湖北粉笔教育纠错投诉中心",
+        "label": 2
+    },
+    "135": {
+        "direct_path": "test/img_html_news/864",
+        "inv_path": "test/inverse_search/864",
+        "image_path": "test/img/864.jpg",
+        "caption": "方川导演 孟宴臣借楼宣传下",
+        "label": 1
+    },
+    "6118": {
+        "direct_path": "train/img_html_news/5539",
+        "inv_path": "train/inverse_search/5539",
+        "image_path": "train/img/5539.jpg",
+        "caption": "今天赢麻了",
+        "label": 2
+    },
+    "2334": {
+        "direct_path": "train/img_html_news/1755",
+        "inv_path": "train/inverse_search/1755",
+        "image_path": "train/img/1755.jpg",
+        "caption": "加拿大总理特鲁多8日访问乌克兰并会晤乌总统泽连斯基 根据加总理办公室8日发布的新闻稿",
+        "label": 0
+    },
+    "419": {
+        "direct_path": "test/img_html_news/1148",
+        "inv_path": "test/inverse_search/1148",
+        "image_path": "test/img/1148.jpg",
+        "caption": "今日饮食前段早餐食堂稀饭1小碗茭白肉丝1小份糯玉米13段午餐下夜班又是没忍住的主食，这个面条还是一样好吃午加餐红心李4山竹2广莲申梅菜酥条1（减肥还买这个）热量已经出线白瞎的一天",
+        "label": 2
+    },
+    "5239": {
+        "direct_path": "train/img_html_news/4660",
+        "inv_path": "train/inverse_search/4660",
+        "image_path": "train/img/4660.jpg",
+        "caption": "大哥你诈骗也把图做的高清一点",
+        "label": 2
+    },
+    "7084": {
+        "direct_path": "val/img_html_news/99",
+        "inv_path": "val/inverse_search/99",
+        "image_path": "val/img/99.jpg",
+        "caption": "杭州 这不会是真的吧苦涩苦涩苦涩苦涩不要我们了吗 ",
+        "label": 1
+    },
+    "1593": {
+        "direct_path": "train/img_html_news/1014",
+        "inv_path": "train/inverse_search/1014",
+        "image_path": "train/img/1014.jpg",
+        "caption": "女孩将小男孩扔井里 看到这个放大版的真的是恨的我牙根儿痒痒怎么会有这种畜生小小年纪就这样恶魔转世没喝孟婆汤图二三来源于网络真实性未",
+        "label": 1
+    },
+    "7697": {
+        "direct_path": "val/img_html_news/712",
+        "inv_path": "val/inverse_search/712",
+        "image_path": "val/img/712.jpg",
+        "caption": "邓超给孙俪发我爱你结果没有收到回复娘娘养生早早就睡了",
+        "label": 2
+    },
+    "2879": {
+        "direct_path": "train/img_html_news/2300",
+        "inv_path": "train/inverse_search/2300",
+        "image_path": "train/img/2300.jpg",
+        "caption": "5月9日024时辽宁省新增2例本土新冠肺炎确诊病例均由无症状感染者转为确诊病例",
+        "label": 0
+    },
+    "2007": {
+        "direct_path": "train/img_html_news/1428",
+        "inv_path": "train/inverse_search/1428",
+        "image_path": "train/img/1428.jpg",
+        "caption": "当前首都疫情防控正处于逆水行舟不进则退的关键时期",
+        "label": 0
+    },
+    "2994": {
+        "direct_path": "train/img_html_news/2415",
+        "inv_path": "train/inverse_search/2415",
+        "image_path": "train/img/2415.jpg",
+        "caption": "8月6日中午烈日炎炎",
+        "label": 0
+    },
+    "1406": {
+        "direct_path": "train/img_html_news/827",
+        "inv_path": "train/inverse_search/827",
+        "image_path": "train/img/827.jpg",
+        "caption": "头痛 世界末日能不能先通知一下 ",
+        "label": 1
+    },
+    "2532": {
+        "direct_path": "train/img_html_news/1953",
+        "inv_path": "train/inverse_search/1953",
+        "image_path": "train/img/1953.jpg",
+        "caption": "据台湾中央社报道蔡英文办公楼9日新增1名宪兵确诊病例",
+        "label": 0
+    },
+    "5687": {
+        "direct_path": "train/img_html_news/5108",
+        "inv_path": "train/inverse_search/5108",
+        "image_path": "train/img/5108.jpg",
+        "caption": "与智族GQ 相遇",
+        "label": 2
+    },
+    "1541": {
+        "direct_path": "train/img_html_news/962",
+        "inv_path": "train/inverse_search/962",
+        "image_path": "train/img/962.jpg",
+        "caption": "票务霉霉成都站接预定 合影接两位预定定金看台500 内场1000 前排2000 ",
+        "label": 1
+    },
+    "2473": {
+        "direct_path": "train/img_html_news/1894",
+        "inv_path": "train/inverse_search/1894",
+        "image_path": "train/img/1894.jpg",
+        "caption": "5月31日0时至24时北京新增14例本土确诊病例含1例无症状感染者转确诊病例和1例无症状感染者",
+        "label": 0
+    },
+    "1281": {
+        "direct_path": "train/img_html_news/702",
+        "inv_path": "train/inverse_search/702",
+        "image_path": "train/img/702.jpg",
+        "caption": "华科大宿舍被雷劈了辅导员把修好的图再发一遍哈哈哈哈哈哈哈哈哈哈 ",
+        "label": 1
+    },
+    "758": {
+        "direct_path": "train/img_html_news/179",
+        "inv_path": "train/inverse_search/179",
+        "image_path": "train/img/179.jpg",
+        "caption": "以此名义游街示众好唐山打人者被网传齐刷刷站一排指认现场 ",
+        "label": 1
+    },
+    "4542": {
+        "direct_path": "train/img_html_news/3963",
+        "inv_path": "train/inverse_search/3963",
+        "image_path": "train/img/3963.jpg",
+        "caption": "课上唯一听的认真的 被赶出去了",
+        "label": 2
+    },
+    "1304": {
+        "direct_path": "train/img_html_news/725",
+        "inv_path": "train/inverse_search/725",
+        "image_path": "train/img/725.jpg",
+        "caption": "五得利面粉涉嫌添加致癌物质被查封 ",
+        "label": 1
+    },
+    "3822": {
+        "direct_path": "train/img_html_news/3243",
+        "inv_path": "train/inverse_search/3243",
+        "image_path": "train/img/3243.jpg",
+        "caption": "关注新冠肺炎7月4日024时广东省新增本土确诊病例1例",
+        "label": 0
+    },
+    "5686": {
+        "direct_path": "train/img_html_news/5107",
+        "inv_path": "train/inverse_search/5107",
+        "image_path": "train/img/5107.jpg",
+        "caption": "村上春树的爱情 浪漫细腻而又温暖",
+        "label": 2
+    },
+    "7662": {
+        "direct_path": "val/img_html_news/677",
+        "inv_path": "val/inverse_search/677",
+        "image_path": "val/img/677.jpg",
+        "caption": "终于100星了排长队很累但我会努力成为更好的选手",
+        "label": 2
+    },
+    "6258": {
+        "direct_path": "train/img_html_news/5679",
+        "inv_path": "train/inverse_search/5679",
+        "image_path": "train/img/5679.jpg",
+        "caption": "真的已经到了不忍直视的胖的地步了 宣城皖南川藏线",
+        "label": 2
+    },
+    "105": {
+        "direct_path": "test/img_html_news/834",
+        "inv_path": "test/inverse_search/834",
+        "image_path": "test/img/834.jpg",
+        "caption": "邹平二中别太荒谬一天230自己老师上课收70多万这些钱都进了谁的腰包简陋的住宿环境 甲醛超标学生的安全也保证不了学校害人还是育人 ",
+        "label": 1
+    },
+    "4278": {
+        "direct_path": "train/img_html_news/3699",
+        "inv_path": "train/inverse_search/3699",
+        "image_path": "train/img/3699.jpg",
+        "caption": "原来东方青苍和小兰花这一幕是这么拍出来的",
+        "label": 2
+    },
+    "5385": {
+        "direct_path": "train/img_html_news/4806",
+        "inv_path": "train/inverse_search/4806",
+        "image_path": "train/img/4806.jpg",
+        "caption": "公司里的张贴有无道理",
+        "label": 2
+    },
+    "7205": {
+        "direct_path": "val/img_html_news/220",
+        "inv_path": "val/inverse_search/220",
+        "image_path": "val/img/220.jpg",
+        "caption": "中共中央总书记国家主席中央军委主席习近平1日在香港说中华民族伟大复兴已经进入不可逆转的历史进程",
+        "label": 0
+    },
+    "4908": {
+        "direct_path": "train/img_html_news/4329",
+        "inv_path": "train/inverse_search/4329",
+        "image_path": "train/img/4329.jpg",
+        "caption": "搞到真的纯爱战士了吴磊你 麻麻不允许你这么专一 从十三岁的小鸡仔喜欢到现在十年追一个星放眼整个追星界都是相当炸裂的 怎么会有人13岁喜欢一个人一直喜欢到长大啊",
+        "label": 2
+    },
+    "2341": {
+        "direct_path": "train/img_html_news/1762",
+        "inv_path": "train/inverse_search/1762",
+        "image_path": "train/img/1762.jpg",
+        "caption": "自美国纽约曼哈顿大陪审团3月30日宣布将对美国前总统特朗普进行起诉后相关消息便成为全球舆论关注焦点",
+        "label": 0
+    },
+    "468": {
+        "direct_path": "test/img_html_news/1197",
+        "inv_path": "test/inverse_search/1197",
+        "image_path": "test/img/1197.jpg",
+        "caption": "R1SE这次整理好心情，快乐见面吧R1SE官博",
+        "label": 2
+    },
+    "2298": {
+        "direct_path": "train/img_html_news/1719",
+        "inv_path": "train/inverse_search/1719",
+        "image_path": "train/img/1719.jpg",
+        "caption": "据塔斯社11日报道美国知名企业家马斯克日前称",
+        "label": 0
+    },
+    "1106": {
+        "direct_path": "train/img_html_news/527",
+        "inv_path": "train/inverse_search/527",
+        "image_path": "train/img/527.jpg",
+        "caption": "真的假的丟人丢到什么地方去了 ",
+        "label": 1
+    },
+    "574": {
+        "direct_path": "test/img_html_news/1303",
+        "inv_path": "test/inverse_search/1303",
+        "image_path": "test/img/1303.jpg",
+        "caption": "听闻岛1对早安礼仪要求严格，瞬间抱紧自己的小猫咪，后面被弟揭老底了",
+        "label": 2
+    },
+    "5562": {
+        "direct_path": "train/img_html_news/4983",
+        "inv_path": "train/inverse_search/4983",
+        "image_path": "train/img/4983.jpg",
+        "caption": "论文致个谢把老师给送走了",
+        "label": 2
+    },
+    "4600": {
+        "direct_path": "train/img_html_news/4021",
+        "inv_path": "train/inverse_search/4021",
+        "image_path": "train/img/4021.jpg",
+        "caption": "怎么会不遗憾呢 差0.1进面试啊",
+        "label": 2
+    },
+    "4482": {
+        "direct_path": "train/img_html_news/3903",
+        "inv_path": "train/inverse_search/3903",
+        "image_path": "train/img/3903.jpg",
+        "caption": "当你把快乐放大的时候你会发现那是一件相当哇噻的事情",
+        "label": 2
+    },
+    "3079": {
+        "direct_path": "train/img_html_news/2500",
+        "inv_path": "train/inverse_search/2500",
+        "image_path": "train/img/2500.jpg",
+        "caption": "据最高人民检察院 消息西藏自治区人民政府原党组成员副主席张永泽涉嫌受贿一案",
+        "label": 0
+    },
+    "3166": {
+        "direct_path": "train/img_html_news/2587",
+        "inv_path": "train/inverse_search/2587",
+        "image_path": "train/img/2587.jpg",
+        "caption": "徐国豪偷逃税被追缴并罚款1.08亿元",
+        "label": 0
+    },
+    "6068": {
+        "direct_path": "train/img_html_news/5489",
+        "inv_path": "train/inverse_search/5489",
+        "image_path": "train/img/5489.jpg",
+        "caption": "甄嬛传 每次看到这段都会狂笑",
+        "label": 2
+    },
+    "7694": {
+        "direct_path": "val/img_html_news/709",
+        "inv_path": "val/inverse_search/709",
+        "image_path": "val/img/709.jpg",
+        "caption": "某大学男生因为嫌别人洗漱吵每天晚上11点准时把水阀关掉坚持了三年整栋楼的人都以为学校晚上就是会停水",
+        "label": 2
+    },
+    "6940": {
+        "direct_path": "train/img_html_news/6361",
+        "inv_path": "train/inverse_search/6361",
+        "image_path": "train/img/6361.jpg",
+        "caption": "答应你们的腹肌",
+        "label": 2
+    },
+    "80": {
+        "direct_path": "test/img_html_news/809",
+        "inv_path": "test/inverse_search/809",
+        "image_path": "test/img/809.jpg",
+        "caption": "我是有多好骗[苦涩]",
+        "label": 1
+    },
+    "5681": {
+        "direct_path": "train/img_html_news/5102",
+        "inv_path": "train/inverse_search/5102",
+        "image_path": "train/img/5102.jpg",
+        "caption": "谢谢你们的沉心创作 看到了戏剧作品的很多可能性 简单中的不简单 平凡中的不凡 爱你们",
+        "label": 2
+    },
+    "3649": {
+        "direct_path": "train/img_html_news/3070",
+        "inv_path": "train/inverse_search/3070",
+        "image_path": "train/img/3070.jpg",
+        "caption": "2022年高考分数线甘肃公布2022年普通高等学校招生各批次最低录取控制分数线和填报志愿资格线 ",
+        "label": 0
+    },
+    "1418": {
+        "direct_path": "train/img_html_news/839",
+        "inv_path": "train/inverse_search/839",
+        "image_path": "train/img/839.jpg",
+        "caption": "中山北路砍人请不要压热度了 ",
+        "label": 1
+    },
+    "2535": {
+        "direct_path": "train/img_html_news/1956",
+        "inv_path": "train/inverse_search/1956",
+        "image_path": "train/img/1956.jpg",
+        "caption": "2022年8月24日024时上海无新增本土新冠肺炎确诊病例",
+        "label": 0
+    },
+    "7020": {
+        "direct_path": "val/img_html_news/35",
+        "inv_path": "val/inverse_search/35",
+        "image_path": "val/img/35.jpg",
+        "caption": "无法无天女孩子一个人坐电梯要小心了 ",
+        "label": 1
+    },
+    "2124": {
+        "direct_path": "train/img_html_news/1545",
+        "inv_path": "train/inverse_search/1545",
+        "image_path": "train/img/1545.jpg",
+        "caption": "今天安徽泗县新冠肺炎疫情防控应急指挥部发布通告",
+        "label": 0
+    },
+    "3536": {
+        "direct_path": "train/img_html_news/2957",
+        "inv_path": "train/inverse_search/2957",
+        "image_path": "train/img/2957.jpg",
+        "caption": "4月16日024时31个省自治区直辖市和新疆生产建设兵团报告新增确诊病例3529例",
+        "label": 0
+    },
+    "5449": {
+        "direct_path": "train/img_html_news/4870",
+        "inv_path": "train/inverse_search/4870",
+        "image_path": "train/img/4870.jpg",
+        "caption": "有人把李白杜甫一生的旅行足迹做了地图忽然发现..",
+        "label": 2
+    },
+    "1247": {
+        "direct_path": "train/img_html_news/668",
+        "inv_path": "train/inverse_search/668",
+        "image_path": "train/img/668.jpg",
+        "caption": "呼和浩特疫情防控兴光a9 焊死你的单元门吧像焊死你的棺材板那样自己听听孩子撕心裂肺的哭声会有报应的 ",
+        "label": 1
+    },
+    "6289": {
+        "direct_path": "train/img_html_news/5710",
+        "inv_path": "train/inverse_search/5710",
+        "image_path": "train/img/5710.jpg",
+        "caption": "恭喜这对职业卡夫妻开心的想哭了",
+        "label": 2
+    },
+    "2655": {
+        "direct_path": "train/img_html_news/2076",
+        "inv_path": "train/inverse_search/2076",
+        "image_path": "train/img/2076.jpg",
+        "caption": "美国白宫网站5日发布消息称美国总统拜登将于4月11日至14日对英国和爱尔兰展开访问",
+        "label": 0
+    },
+    "2717": {
+        "direct_path": "train/img_html_news/2138",
+        "inv_path": "train/inverse_search/2138",
+        "image_path": "train/img/2138.jpg",
+        "caption": "4月14日上午10时20分左右湖北省钟祥市威龙船厂发生生产安全事故",
+        "label": 0
+    },
+    "7305": {
+        "direct_path": "val/img_html_news/320",
+        "inv_path": "val/inverse_search/320",
+        "image_path": "val/img/320.jpg",
+        "caption": "中国游泳协会9日宣布了即将参加2022年第19届世界游泳锦标赛的中国跳水队参赛名单曹缘全红婵陈芋汐张家齐任茜和王宗源6位奥运冠军榜上有名",
+        "label": 0
+    },
+    "198": {
+        "direct_path": "test/img_html_news/927",
+        "inv_path": "test/inverse_search/927",
+        "image_path": "test/img/927.jpg",
+        "caption": " 中国科学院相关专家表示，在“羲和号”卫星成功发射的基础上，我国将重点推动实施日地L5太阳探测工程，初步计划于2026年发射“羲和二号”卫星，发射后将探索太阳活动区磁场的起源、演化和研究太阳爆发对地球",
+        "label": 0
+    },
+    "6232": {
+        "direct_path": "train/img_html_news/5653",
+        "inv_path": "train/inverse_search/5653",
+        "image_path": "train/img/5653.jpg",
+        "caption": "跟随我儿子买了双洞洞鞋好可爱啊一点都不笨重像小皮鞋还软软的给我腿显得都没那么粗了",
+        "label": 2
+    },
+    "2543": {
+        "direct_path": "train/img_html_news/1964",
+        "inv_path": "train/inverse_search/1964",
+        "image_path": "train/img/1964.jpg",
+        "caption": "据斯里兰卡媒体7月9日晚报道总统拉贾帕克萨已通知议长阿贝瓦德纳",
+        "label": 0
+    },
+    "4340": {
+        "direct_path": "train/img_html_news/3761",
+        "inv_path": "train/inverse_search/3761",
+        "image_path": "train/img/3761.jpg",
+        "caption": "余秀华月光落在左手上",
+        "label": 2
+    },
+    "830": {
+        "direct_path": "train/img_html_news/251",
+        "inv_path": "train/inverse_search/251",
+        "image_path": "train/img/251.jpg",
+        "caption": "烈士的子女高考加20分引起众多家长不满女孩一句话让大家沉默了女孩说我可以把二十分给你你能把爸爸还给我吗女孩答得好赞应该加分对烈士.",
+        "label": 1
+    },
+    "6352": {
+        "direct_path": "train/img_html_news/5773",
+        "inv_path": "train/inverse_search/5773",
+        "image_path": "train/img/5773.jpg",
+        "caption": "原神什么东西",
+        "label": 2
+    },
+    "5919": {
+        "direct_path": "train/img_html_news/5340",
+        "inv_path": "train/inverse_search/5340",
+        "image_path": "train/img/5340.jpg",
+        "caption": "这是什么样的心理活动才能有这样的眼神 ",
+        "label": 2
+    },
+    "4912": {
+        "direct_path": "train/img_html_news/4333",
+        "inv_path": "train/inverse_search/4333",
+        "image_path": "train/img/4333.jpg",
+        "caption": "零点见 运动男孩电影灌篮高手",
+        "label": 2
+    },
+    "2183": {
+        "direct_path": "train/img_html_news/1604",
+        "inv_path": "train/inverse_search/1604",
+        "image_path": "train/img/1604.jpg",
+        "caption": "为贯彻响应新时代对劳动教育的新要求引导中小学生树立正确的劳动价值观和良好劳动品质",
+        "label": 0
+    },
+    "2969": {
+        "direct_path": "train/img_html_news/2390",
+        "inv_path": "train/inverse_search/2390",
+        "image_path": "train/img/2390.jpg",
+        "caption": "据法新社4日报道芬兰目前已正式加入北约",
+        "label": 0
+    },
+    "1364": {
+        "direct_path": "train/img_html_news/785",
+        "inv_path": "train/inverse_search/785",
+        "image_path": "train/img/785.jpg",
+        "caption": "现在徐州只能掐网线了把全国全世界的网线都掐断或许还有点希望没看错的话八孩妈所谓的杨某侠9成以上可能是军人子女捅大天了 ",
+        "label": 1
+    },
+    "4420": {
+        "direct_path": "train/img_html_news/3841",
+        "inv_path": "train/inverse_search/3841",
+        "image_path": "train/img/3841.jpg",
+        "caption": "凹凸世界 凹凸世界 天使A炽天使艾蒂资料卡今日公开 作为被创世神创造的第一位天使艾蒂非常自觉地认领了老大的身份就让我们一起来认识一下这位原初天使大人吧",
+        "label": 2
+    },
+    "3900": {
+        "direct_path": "train/img_html_news/3321",
+        "inv_path": "train/inverse_search/3321",
+        "image_path": "train/img/3321.jpg",
+        "caption": "在815日本战败并宣布无条件投降77周年之际侵华日军第七三一部队罪证陈列馆向社会公布了关东军化学部留守名簿",
+        "label": 0
+    },
+    "5768": {
+        "direct_path": "train/img_html_news/5189",
+        "inv_path": "train/inverse_search/5189",
+        "image_path": "train/img/5189.jpg",
+        "caption": "为什么不能是我呢",
+        "label": 2
+    },
+    "6757": {
+        "direct_path": "train/img_html_news/6178",
+        "inv_path": "train/inverse_search/6178",
+        "image_path": "train/img/6178.jpg",
+        "caption": "刘宪华在韩综独自生活里太搞笑了吧随便一截都是名场面可爱的大华呀",
+        "label": 2
+    },
+    "4275": {
+        "direct_path": "train/img_html_news/3696",
+        "inv_path": "train/inverse_search/3696",
+        "image_path": "train/img/3696.jpg",
+        "caption": "澳门雷少参加拳赛受伤",
+        "label": 2
+    },
+    "2136": {
+        "direct_path": "train/img_html_news/1557",
+        "inv_path": "train/inverse_search/1557",
+        "image_path": "train/img/1557.jpg",
+        "caption": "已进驻空间站天和核心舱的神舟十四号航天员乘组今天11时9分成功开启天舟四号货物舱舱门",
+        "label": 0
+    },
+    "5343": {
+        "direct_path": "train/img_html_news/4764",
+        "inv_path": "train/inverse_search/4764",
+        "image_path": "train/img/4764.jpg",
+        "caption": "别着急赶路啊 抬头看看 这片无人问津的春天",
+        "label": 2
+    },
+    "6119": {
+        "direct_path": "train/img_html_news/5540",
+        "inv_path": "train/inverse_search/5540",
+        "image_path": "train/img/5540.jpg",
+        "caption": "今天很WOW第一次参加同学的婚礼真的很感动要永远幸福哦",
+        "label": 2
+    },
+    "3959": {
+        "direct_path": "train/img_html_news/3380",
+        "inv_path": "train/inverse_search/3380",
+        "image_path": "train/img/3380.jpg",
+        "caption": "据塔斯社报道古巴外长罗德里格斯当地时间10日发推文批评称",
+        "label": 0
+    },
+    "6380": {
+        "direct_path": "train/img_html_news/5801",
+        "inv_path": "train/inverse_search/5801",
+        "image_path": "train/img/5801.jpg",
+        "caption": "狼子别怕 我们都是好人 咱们都是一家人 你看现在的你 和曾经一样帅 陈少熙带狗认亲种地吧",
+        "label": 2
+    },
+    "1987": {
+        "direct_path": "train/img_html_news/1408",
+        "inv_path": "train/inverse_search/1408",
+        "image_path": "train/img/1408.jpg",
+        "caption": "女大学生穷游西藏被58岁村民囚禁被发现时舌头已被割下近几年有很多年轻人都将这句话奉为人生信条一个人背着行囊去穷游只为了完成那一场说走就走的旅",
+        "label": 1
+    },
+    "7103": {
+        "direct_path": "val/img_html_news/118",
+        "inv_path": "val/inverse_search/118",
+        "image_path": "val/img/118.jpg",
+        "caption": "春暖花开的季节想出去走走奈何自己没有还是继续搬砖吧 ",
+        "label": 1
+    },
+    "7414": {
+        "direct_path": "val/img_html_news/429",
+        "inv_path": "val/inverse_search/429",
+        "image_path": "val/img/429.jpg",
+        "caption": "天官赐福 我有一心爱之人还在世上",
+        "label": 2
+    },
+    "500": {
+        "direct_path": "test/img_html_news/1229",
+        "inv_path": "test/inverse_search/1229",
+        "image_path": "test/img/1229.jpg",
+        "caption": "截图1张",
+        "label": 2
+    },
+    "6305": {
+        "direct_path": "train/img_html_news/5726",
+        "inv_path": "train/inverse_search/5726",
+        "image_path": "train/img/5726.jpg",
+        "caption": "很多人都不知道的妇科小常识",
+        "label": 2
+    },
+    "5124": {
+        "direct_path": "train/img_html_news/4545",
+        "inv_path": "train/inverse_search/4545",
+        "image_path": "train/img/4545.jpg",
+        "caption": "把失败想成我学会了一个不对的方法",
+        "label": 2
+    },
+    "7015": {
+        "direct_path": "val/img_html_news/30",
+        "inv_path": "val/inverse_search/30",
+        "image_path": "val/img/30.jpg",
+        "caption": "余兰平服装店安徽宿松女孩受害已经好几个月了热度一直不够没有被关注到女孩妈妈所发的微博已被站方隐藏相关部门私自多次解剖受害者也没经过人家家属",
+        "label": 1
+    },
+    "4552": {
+        "direct_path": "train/img_html_news/3973",
+        "inv_path": "train/inverse_search/3973",
+        "image_path": "train/img/3973.jpg",
+        "caption": "我同事又穿汉元素上班了好好看嗷羡慕子",
+        "label": 2
+    },
+    "2031": {
+        "direct_path": "train/img_html_news/1452",
+        "inv_path": "train/inverse_search/1452",
+        "image_path": "train/img/1452.jpg",
+        "caption": " 今天共青团中央发布中国共青团团内统计公报",
+        "label": 0
+    },
+    "1130": {
+        "direct_path": "train/img_html_news/551",
+        "inv_path": "train/inverse_search/551",
+        "image_path": "train/img/551.jpg",
+        "caption": "天降决赛圈苦涩 也就短暂的快乐了几天苦涩苦涩苦涩苦涩 ",
+        "label": 1
+    },
+    "3910": {
+        "direct_path": "train/img_html_news/3331",
+        "inv_path": "train/inverse_search/3331",
+        "image_path": "train/img/3331.jpg",
+        "caption": "新华社武汉3月30日电 中共中央台办国务院台办主任宋涛30日在武汉会见来大陆访问的马英九一行宋涛首先转达了习近平总书记对马英九的亲切问候",
+        "label": 0
+    },
+    "4261": {
+        "direct_path": "train/img_html_news/3682",
+        "inv_path": "train/inverse_search/3682",
+        "image_path": "train/img/3682.jpg",
+        "caption": "十二星座最怕的爱情 水逆退散",
+        "label": 2
+    },
+    "5226": {
+        "direct_path": "train/img_html_news/4647",
+        "inv_path": "train/inverse_search/4647",
+        "image_path": "train/img/4647.jpg",
+        "caption": "马斯克携小孩出席会议据说他至少有十个孩子这个是老九",
+        "label": 2
+    },
+    "876": {
+        "direct_path": "train/img_html_news/297",
+        "inv_path": "train/inverse_search/297",
+        "image_path": "train/img/297.jpg",
+        "caption": "隔壁要变成衢州了 ",
+        "label": 1
+    },
+    "4503": {
+        "direct_path": "train/img_html_news/3924",
+        "inv_path": "train/inverse_search/3924",
+        "image_path": "train/img/3924.jpg",
+        "caption": "叶冰裳的第一个镜头和最后的一个镜头都是从一碗粥开始和结束",
+        "label": 2
+    },
+    "4326": {
+        "direct_path": "train/img_html_news/3747",
+        "inv_path": "train/inverse_search/3747",
+        "image_path": "train/img/3747.jpg",
+        "caption": "远离七大姑八大姨介绍的对象",
+        "label": 2
+    },
+    "4938": {
+        "direct_path": "train/img_html_news/4359",
+        "inv_path": "train/inverse_search/4359",
+        "image_path": "train/img/4359.jpg",
+        "caption": "一组有趣好玩的表情包",
+        "label": 2
+    },
+    "3288": {
+        "direct_path": "train/img_html_news/2709",
+        "inv_path": "train/inverse_search/2709",
+        "image_path": "train/img/2709.jpg",
+        "caption": "佩洛西丈夫体内被检出毒品美国福克斯新闻网援引一份法庭文件报道称美国众议院议长南希佩洛西的丈夫保罗佩洛西5月份因酒驾被捕期间",
+        "label": 0
+    },
+    "5456": {
+        "direct_path": "train/img_html_news/4877",
+        "inv_path": "train/inverse_search/4877",
+        "image_path": "train/img/4877.jpg",
+        "caption": "离老师挺近的 应该不会熏着她吧",
+        "label": 2
+    },
+    "739": {
+        "direct_path": "train/img_html_news/160",
+        "inv_path": "train/inverse_search/160",
+        "image_path": "train/img/160.jpg",
+        "caption": "好笑吗成都人温良人 ",
+        "label": 1
+    },
+    "2244": {
+        "direct_path": "train/img_html_news/1665",
+        "inv_path": "train/inverse_search/1665",
+        "image_path": "train/img/1665.jpg",
+        "caption": "针对麦趣尔牛奶检出丙二醇问题新疆维吾尔自治区市场监督管理局第一时间联合昌吉回族自治州市场监督管理局昌吉市市场监督管理局组成调查组",
+        "label": 0
+    },
+    "2513": {
+        "direct_path": "train/img_html_news/1934",
+        "inv_path": "train/inverse_search/1934",
+        "image_path": "train/img/1934.jpg",
+        "caption": "泗县增22例本土确诊112例无症状 2022年7月8日024时安徽省报告新增确诊病例25例宿州市灵璧县3例泗县22例",
+        "label": 0
+    },
+    "76": {
+        "direct_path": "test/img_html_news/805",
+        "inv_path": "test/inverse_search/805",
+        "image_path": "test/img/805.jpg",
+        "caption": "和朋友聊天 发现自己公司蛮像会把我骗去缅甸的那种哈哈哈哈哈1.收了护照啥的2.会进行两个月电销培训 拉到一个地方去集中打电话 还会录音监听你打电话3.月初只发了...",
+        "label": 1
+    },
+    "6933": {
+        "direct_path": "train/img_html_news/6354",
+        "inv_path": "train/inverse_search/6354",
+        "image_path": "train/img/6354.jpg",
+        "caption": "1我 2我妈 妈妈说用完洗干净也能继续装娃娃",
+        "label": 2
+    },
+    "3796": {
+        "direct_path": "train/img_html_news/3217",
+        "inv_path": "train/inverse_search/3217",
+        "image_path": "train/img/3217.jpg",
+        "caption": "4月9日冲上热搜",
+        "label": 0
+    },
+    "3168": {
+        "direct_path": "train/img_html_news/2589",
+        "inv_path": "train/inverse_search/2589",
+        "image_path": "train/img/2589.jpg",
+        "caption": "北京新冠疫情防控第326场新闻发布会5月6日在北京市新型冠状病毒肺炎疫情防控工作第326场新闻发布会上",
+        "label": 0
+    },
+    "1385": {
+        "direct_path": "train/img_html_news/806",
+        "inv_path": "train/inverse_search/806",
+        "image_path": "train/img/806.jpg",
+        "caption": "峨眉山的猴子你们好日子到头了 峨眉山牢底坐穿哈哈哈哈哈哈 ",
+        "label": 1
+    },
+    "2361": {
+        "direct_path": "train/img_html_news/1782",
+        "inv_path": "train/inverse_search/1782",
+        "image_path": "train/img/1782.jpg",
+        "caption": " 据深圳警方28日通报3月25日零时许",
+        "label": 0
+    },
+    "3214": {
+        "direct_path": "train/img_html_news/2635",
+        "inv_path": "train/inverse_search/2635",
+        "image_path": "train/img/2635.jpg",
+        "caption": "吉林省卫生健康委通报3月24日024时吉林省新增新冠肺炎本地确诊病例1110例轻型1099例普通型11例",
+        "label": 0
+    },
+    "1948": {
+        "direct_path": "train/img_html_news/1369",
+        "inv_path": "train/inverse_search/1369",
+        "image_path": "train/img/1369.jpg",
+        "caption": "95后养猪两年半存款20万上一个日赚9000的95后夫妻已经关门了这是要把人家养猪场也整关门么是竞争对手买的热搜 ",
+        "label": 1
+    },
+    "2152": {
+        "direct_path": "train/img_html_news/1573",
+        "inv_path": "train/inverse_search/1573",
+        "image_path": "train/img/1573.jpg",
+        "caption": "据斯里兰卡总理办公室消息当地时间7月11日上午",
+        "label": 0
+    },
+    "5182": {
+        "direct_path": "train/img_html_news/4603",
+        "inv_path": "train/inverse_search/4603",
+        "image_path": "train/img/4603.jpg",
+        "caption": "猫对别的品种的猫 vs 猫对自己品种的同类",
+        "label": 2
+    },
+    "4872": {
+        "direct_path": "train/img_html_news/4293",
+        "inv_path": "train/inverse_search/4293",
+        "image_path": "train/img/4293.jpg",
+        "caption": "姐们儿嫁了 开心走二环",
+        "label": 2
+    },
+    "4697": {
+        "direct_path": "train/img_html_news/4118",
+        "inv_path": "train/inverse_search/4118",
+        "image_path": "train/img/4118.jpg",
+        "caption": "宝马mini道歉 图一宝马写的图二Ai写的 ai比宝马有诚意多了",
+        "label": 2
+    },
+    "1993": {
+        "direct_path": "train/img_html_news/1414",
+        "inv_path": "train/inverse_search/1414",
+        "image_path": "train/img/1414.jpg",
+        "caption": "到底还会有多少人因为被防y耽搁而过世 ",
+        "label": 1
+    },
+    "3679": {
+        "direct_path": "train/img_html_news/3100",
+        "inv_path": "train/inverse_search/3100",
+        "image_path": "train/img/3100.jpg",
+        "caption": "7月15日国家统计局发布数据",
+        "label": 0
+    },
+    "6382": {
+        "direct_path": "train/img_html_news/5803",
+        "inv_path": "train/inverse_search/5803",
+        "image_path": "train/img/5803.jpg",
+        "caption": "小林叫医疗暂停了拧拉还是会有点影响 加油加油",
+        "label": 2
+    },
+    "6468": {
+        "direct_path": "train/img_html_news/5889",
+        "inv_path": "train/inverse_search/5889",
+        "image_path": "train/img/5889.jpg",
+        "caption": "你们",
+        "label": 2
+    },
+    "6599": {
+        "direct_path": "train/img_html_news/6020",
+        "inv_path": "train/inverse_search/6020",
+        "image_path": "train/img/6020.jpg",
+        "caption": "论喝醉后的力气",
+        "label": 2
+    },
+    "406": {
+        "direct_path": "test/img_html_news/1135",
+        "inv_path": "test/inverse_search/1135",
+        "image_path": "test/img/1135.jpg",
+        "caption": "库博光学隐形近视倍新月抛盒23雨里楼市灯火一盏盏寂落，就像昨日我们撑着伞擦肩而过晴雨有期，过往遥遥无期1",
+        "label": 2
+    },
+    "6759": {
+        "direct_path": "train/img_html_news/6180",
+        "inv_path": "train/inverse_search/6180",
+        "image_path": "train/img/6180.jpg",
+        "caption": "AI绘画艺术 Brides by KiKouFuFu",
+        "label": 2
+    },
+    "636": {
+        "direct_path": "train/img_html_news/57",
+        "inv_path": "train/inverse_search/57",
+        "image_path": "train/img/57.jpg",
+        "caption": "上辈子造孽 这辈子专给铁路送手续费了苦涩第几次我已经记不清了疑问 ",
+        "label": 1
+    },
+    "1730": {
+        "direct_path": "train/img_html_news/1151",
+        "inv_path": "train/inverse_search/1151",
+        "image_path": "train/img/1151.jpg",
+        "caption": "很好很好我是被针对了麽汗汗汗 ",
+        "label": 1
+    },
+    "5100": {
+        "direct_path": "train/img_html_news/4521",
+        "inv_path": "train/inverse_search/4521",
+        "image_path": "train/img/4521.jpg",
+        "caption": "卡洛琳和麦克斯的友情这的太让人感动了",
+        "label": 2
+    },
+    "5061": {
+        "direct_path": "train/img_html_news/4482",
+        "inv_path": "train/inverse_search/4482",
+        "image_path": "train/img/4482.jpg",
+        "caption": "烈焰之武庚纪探班直播 烈焰之武庚纪剧组嗨聊局 万籁热烈腾焰飞芒一尺寒光欢迎任嘉伦Allen 邢菲 祝绪丹Bambi THEO朱正廷 米热MERXAT 做客直播间4月27日晚1900锁定爱奇艺神剧亮了探班repo 等你来看直播预约网页链接",
+        "label": 2
+    },
+    "3397": {
+        "direct_path": "train/img_html_news/2818",
+        "inv_path": "train/inverse_search/2818",
+        "image_path": "train/img/2818.jpg",
+        "caption": "外交部发言人汪文斌宣布应国务委员兼外交部长秦刚邀请老挝副总理兼外长沙伦赛将于4月16日至18日对中国进行正式访问",
+        "label": 0
+    },
+    "3541": {
+        "direct_path": "train/img_html_news/2962",
+        "inv_path": "train/inverse_search/2962",
+        "image_path": "train/img/2962.jpg",
+        "caption": "近日国家矿山安全监察局山西局通报山西晋煤太钢能源有限责任公司三交煤矿 510一般运输事故512一般顶板事故调查结果",
+        "label": 0
+    },
+    "4510": {
+        "direct_path": "train/img_html_news/3931",
+        "inv_path": "train/inverse_search/3931",
+        "image_path": "train/img/3931.jpg",
+        "caption": "28岁存款6万的我裸辞了 辞职不代表职业生涯的尽头而是另一个赛道的启航 暖春心动季",
+        "label": 2
+    },
+    "4928": {
+        "direct_path": "train/img_html_news/4349",
+        "inv_path": "train/inverse_search/4349",
+        "image_path": "train/img/4349.jpg",
+        "caption": "换了个电视罩感觉家里都亮堂了",
+        "label": 2
+    },
+    "7547": {
+        "direct_path": "val/img_html_news/562",
+        "inv_path": "val/inverse_search/562",
+        "image_path": "val/img/562.jpg",
+        "caption": "FreenBecky Freen 机场 裤子Maven paston pants 58.99",
+        "label": 2
+    },
+    "311": {
+        "direct_path": "test/img_html_news/1040",
+        "inv_path": "test/inverse_search/1040",
+        "image_path": "test/img/1040.jpg",
+        "caption": " 综合彭博社、法新社等多家外媒10日报道，有加拿大官员证实，由于飞机出现机械故障，参加完二十国集团峰会的加拿大总理特鲁多和整个加拿大代表团未能按原定时间回国，不得不滞留在印度。G20峰会于9月9日至1",
+        "label": 0
+    },
+    "4757": {
+        "direct_path": "train/img_html_news/4178",
+        "inv_path": "train/inverse_search/4178",
+        "image_path": "train/img/4178.jpg",
+        "caption": "有些大学生真的别逼我骂你",
+        "label": 2
+    },
+    "7095": {
+        "direct_path": "val/img_html_news/110",
+        "inv_path": "val/inverse_search/110",
+        "image_path": "val/img/110.jpg",
+        "caption": "西安疫情 西安被隔离家庭的宠物正在被上门安乐死如果是真的的话 那发号施令和执行的人下十八层地狱都不够吧 ",
+        "label": 1
+    },
+    "1440": {
+        "direct_path": "train/img_html_news/861",
+        "inv_path": "train/inverse_search/861",
+        "image_path": "train/img/861.jpg",
+        "caption": "tmd能不能出规定不要在校园内开车疾行啊新生十几岁刚踏入大学还没开始享受人生直接人没了我真的草了我们学校也有那种开车开巨快的人我真受",
+        "label": 1
+    },
+    "5104": {
+        "direct_path": "train/img_html_news/4525",
+        "inv_path": "train/inverse_search/4525",
+        "image_path": "train/img/4525.jpg",
+        "caption": "这张照片拍摄于1970年8月地点是杭州汪庄宾馆左一是为毛主席当了6年的机要秘书兼生活秘书张玉凤左三是照顾毛主席21年的保健医生兼护士长吴旭君左四是为毛主席理发17年的理发师兼卫士周福明 致敬伟人",
+        "label": 2
+    },
+    "4788": {
+        "direct_path": "train/img_html_news/4209",
+        "inv_path": "train/inverse_search/4209",
+        "image_path": "train/img/4209.jpg",
+        "caption": "一碗面这才是大学食堂该有的价格",
+        "label": 2
+    },
+    "7654": {
+        "direct_path": "val/img_html_news/669",
+        "inv_path": "val/inverse_search/669",
+        "image_path": "val/img/669.jpg",
+        "caption": "原来藏狐真长这样",
+        "label": 2
+    },
+    "3670": {
+        "direct_path": "train/img_html_news/3091",
+        "inv_path": "train/inverse_search/3091",
+        "image_path": "train/img/3091.jpg",
+        "caption": "唐山警方通报小树林扎伤事件 丰润公安局网络发言人 ",
+        "label": 0
+    },
+    "348": {
+        "direct_path": "test/img_html_news/1077",
+        "inv_path": "test/inverse_search/1077",
+        "image_path": "test/img/1077.jpg",
+        "caption": "据英国《卫报》7日报道，美国太空科技公司SpaceX首席执行官马斯克被曝光曾拒绝启动克里米亚海岸附近的“星链”互联网卫星通信系统。这一消息引发乌克兰官员的愤怒。乌克兰总统办公室顾问波多利亚克在社交媒体",
+        "label": 0
+    },
+    "3283": {
+        "direct_path": "train/img_html_news/2704",
+        "inv_path": "train/inverse_search/2704",
+        "image_path": "train/img/2704.jpg",
+        "caption": "7月5日0时至24时北京新增5例本土确诊病例和1例无症状感染者均为隔离观察人员",
+        "label": 0
+    },
+    "2516": {
+        "direct_path": "train/img_html_news/1937",
+        "inv_path": "train/inverse_search/1937",
+        "image_path": "train/img/1937.jpg",
+        "caption": "血液是不可替代的宝贵医疗资源献血者",
+        "label": 0
+    },
+    "5888": {
+        "direct_path": "train/img_html_news/5309",
+        "inv_path": "train/inverse_search/5309",
+        "image_path": "train/img/5309.jpg",
+        "caption": "躲雨事件的真相哈哈哈哈哈哈哈哈哈哈怀疑熊生成和花",
+        "label": 2
+    },
+    "7631": {
+        "direct_path": "val/img_html_news/646",
+        "inv_path": "val/inverse_search/646",
+        "image_path": "val/img/646.jpg",
+        "caption": "九十年代进城打工春节回家的打扮",
+        "label": 2
+    },
+    "6903": {
+        "direct_path": "train/img_html_news/6324",
+        "inv_path": "train/inverse_search/6324",
+        "image_path": "train/img/6324.jpg",
+        "caption": "心心念念的WeChat表情包",
+        "label": 2
+    },
+    "3152": {
+        "direct_path": "train/img_html_news/2573",
+        "inv_path": "train/inverse_search/2573",
+        "image_path": "train/img/2573.jpg",
+        "caption": " 阿拉伯卫星电视台等多家媒体4月2日援引伊朗塔斯尼姆通讯社消息称伊朗方面称其驱离一架进入阿曼湾附近伊朗领空的美国间谍飞机",
+        "label": 0
+    },
+    "5208": {
+        "direct_path": "train/img_html_news/4629",
+        "inv_path": "train/inverse_search/4629",
+        "image_path": "train/img/4629.jpg",
+        "caption": "它打赌我吃的时候不会往里面看",
+        "label": 2
+    },
+    "3034": {
+        "direct_path": "train/img_html_news/2455",
+        "inv_path": "train/inverse_search/2455",
+        "image_path": "train/img/2455.jpg",
+        "caption": "国家主席习近平7月28日晚应约同美国总统拜登通电话两国元首就中美关系以及双方关心的问题进行了坦率沟通和交流",
+        "label": 0
+    },
+    "5965": {
+        "direct_path": "train/img_html_news/5386",
+        "inv_path": "train/inverse_search/5386",
+        "image_path": "train/img/5386.jpg",
+        "caption": "刘亦菲孙艺珍同款裙子刘亦菲孙艺珍曾撞衫刘亦菲孙艺珍曾经穿过同款裙子两位穿着都很美呀有不同韵味的美呢",
+        "label": 2
+    },
+    "6335": {
+        "direct_path": "train/img_html_news/5756",
+        "inv_path": "train/inverse_search/5756",
+        "image_path": "train/img/5756.jpg",
+        "caption": "石家庄植物园报玩 报看 别去 石家庄",
+        "label": 2
+    },
+    "2888": {
+        "direct_path": "train/img_html_news/2309",
+        "inv_path": "train/inverse_search/2309",
+        "image_path": "train/img/2309.jpg",
+        "caption": "7月7日024时31个省自治区直辖市和新疆生产建设兵团报告新增确诊病例97例",
+        "label": 0
+    },
+    "5340": {
+        "direct_path": "train/img_html_news/4761",
+        "inv_path": "train/inverse_search/4761",
+        "image_path": "train/img/4761.jpg",
+        "caption": "投稿你们这辈子还会再见面吗",
+        "label": 2
+    },
+    "7361": {
+        "direct_path": "val/img_html_news/376",
+        "inv_path": "val/inverse_search/376",
+        "image_path": "val/img/376.jpg",
+        "caption": " 健康上海12320 ",
+        "label": 0
+    },
+    "3994": {
+        "direct_path": "train/img_html_news/3415",
+        "inv_path": "train/inverse_search/3415",
+        "image_path": "train/img/3415.jpg",
+        "caption": "中央气象台预计7月26日江南和华南大部四川东部重庆以及南疆盆地等地最高气温有37以上浙江西南部福建西北部江西东部和南部湖南东南部以及南疆盆地等地的部分地区最高气温可达40以上",
+        "label": 0
+    },
+    "958": {
+        "direct_path": "train/img_html_news/379",
+        "inv_path": "train/inverse_search/379",
+        "image_path": "train/img/379.jpg",
+        "caption": "别让热度这么快下去家人们不管是真是假 官方处理态度不该是默不作声删微博记者想探访医院却只让刷脸进入 而是应该赶紧通报受害女生现在的真实情况都踏马给",
+        "label": 1
+    },
+    "3161": {
+        "direct_path": "train/img_html_news/2582",
+        "inv_path": "train/inverse_search/2582",
+        "image_path": "train/img/2582.jpg",
+        "caption": " 据法新社报道巴西总统办公室3月31日表示",
+        "label": 0
+    },
+    "5192": {
+        "direct_path": "train/img_html_news/4613",
+        "inv_path": "train/inverse_search/4613",
+        "image_path": "train/img/4613.jpg",
+        "caption": "成为房奴开启励志人生了",
+        "label": 2
+    },
+    "4876": {
+        "direct_path": "train/img_html_news/4297",
+        "inv_path": "train/inverse_search/4297",
+        "image_path": "train/img/4297.jpg",
+        "caption": "没钱都不敢抑郁了",
+        "label": 2
+    },
+    "6664": {
+        "direct_path": "train/img_html_news/6085",
+        "inv_path": "train/inverse_search/6085",
+        "image_path": "train/img/6085.jpg",
+        "caption": "最强大脑王宇轩 欢迎王哥莅临北京 恭喜王哥今天在北大校园被3名粉丝认出来却没有被sc认出来 恭喜王姐通过被sc认出来实现极限反杀 P4P5一些鸽子精咕咕失败与达成每个人都要与zty在4月为wyx准备的白花合影成就",
+        "label": 2
+    },
+    "4322": {
+        "direct_path": "train/img_html_news/3743",
+        "inv_path": "train/inverse_search/3743",
+        "image_path": "train/img/3743.jpg",
+        "caption": "同事骂我卷装实际是真的做不完",
+        "label": 2
+    },
+    "227": {
+        "direct_path": "test/img_html_news/956",
+        "inv_path": "test/inverse_search/956",
+        "image_path": "test/img/956.jpg",
+        "caption": "有记者问：近日，欧盟宣布将对中国出口电动汽车发起反补贴调查，请问发言人对此有何评论？答：9月13日，欧盟领导人正式宣布即将对中国电动汽车发起反补贴调查。中方对此表示高度关切和强烈不满。  ",
+        "label": 0
+    },
+    "2916": {
+        "direct_path": "train/img_html_news/2337",
+        "inv_path": "train/inverse_search/2337",
+        "image_path": "train/img/2337.jpg",
+        "caption": "周五周五快乐不添堵",
+        "label": 0
+    },
+    "2870": {
+        "direct_path": "train/img_html_news/2291",
+        "inv_path": "train/inverse_search/2291",
+        "image_path": "train/img/2291.jpg",
+        "caption": "从美国当地时间23日上午10点开始美国国会众议院能源和商业委员会针对短视频社交平台TikTok举行的听证会",
+        "label": 0
+    },
+    "7181": {
+        "direct_path": "val/img_html_news/196",
+        "inv_path": "val/inverse_search/196",
+        "image_path": "val/img/196.jpg",
+        "caption": "针对美国国会众议长佩洛西不顾中方强烈反对和严正交涉执意窜访中国台湾地区",
+        "label": 0
+    },
+    "378": {
+        "direct_path": "test/img_html_news/1107",
+        "inv_path": "test/inverse_search/1107",
+        "image_path": "test/img/1107.jpg",
+        "caption": "据俄罗斯卫星通讯社报道，俄罗斯外交部发言人扎哈罗娃7日在社交媒体发文，质疑美国称其向基辅提供的贫铀弹不会带来放射性威胁的言论，反问这是“谎话还是胡言乱语”。扎哈罗娃在Telegram 频道上发文称，“",
+        "label": 0
+    },
+    "5803": {
+        "direct_path": "train/img_html_news/5224",
+        "inv_path": "train/inverse_search/5224",
+        "image_path": "train/img/5224.jpg",
+        "caption": "图书馆这样会被讨厌吗",
+        "label": 2
+    },
+    "7220": {
+        "direct_path": "val/img_html_news/235",
+        "inv_path": "val/inverse_search/235",
+        "image_path": "val/img/235.jpg",
+        "caption": "近期去美元化在国际舆论上的一个热门话题",
+        "label": 0
+    },
+    "2562": {
+        "direct_path": "train/img_html_news/1983",
+        "inv_path": "train/inverse_search/1983",
+        "image_path": "train/img/1983.jpg",
+        "caption": "尼泊尔军方30日宣布一架载有22人的尼泊尔客机已在木斯塘山区坠毁",
+        "label": 0
+    },
+    "4092": {
+        "direct_path": "train/img_html_news/3513",
+        "inv_path": "train/inverse_search/3513",
+        "image_path": "train/img/3513.jpg",
+        "caption": "小池塘迎来了它首批勇敢的住客",
+        "label": 2
+    },
+    "6229": {
+        "direct_path": "train/img_html_news/5650",
+        "inv_path": "train/inverse_search/5650",
+        "image_path": "train/img/5650.jpg",
+        "caption": "每天一个聊天小技巧 cr 楠楠",
+        "label": 2
+    },
+    "6742": {
+        "direct_path": "train/img_html_news/6163",
+        "inv_path": "train/inverse_search/6163",
+        "image_path": "train/img/6163.jpg",
+        "caption": "这样穿你们男人觉得好看吗 绍兴",
+        "label": 2
+    },
+    "6086": {
+        "direct_path": "train/img_html_news/5507",
+        "inv_path": "train/inverse_search/5507",
+        "image_path": "train/img/5507.jpg",
+        "caption": "不穿bra好爽啊啊啊啊啊啊",
+        "label": 2
+    },
+    "5944": {
+        "direct_path": "train/img_html_news/5365",
+        "inv_path": "train/inverse_search/5365",
+        "image_path": "train/img/5365.jpg",
+        "caption": "我的男朋友不知道碳水是什么东西",
+        "label": 2
+    },
+    "6183": {
+        "direct_path": "train/img_html_news/5604",
+        "inv_path": "train/inverse_search/5604",
+        "image_path": "train/img/5604.jpg",
+        "caption": "俺公公指挥他儿子从自家院里给俺剪的海棠和丁香 嗷嗷嗷我发财了",
+        "label": 2
+    },
+    "1160": {
+        "direct_path": "train/img_html_news/581",
+        "inv_path": "train/inverse_search/581",
+        "image_path": "train/img/581.jpg",
+        "caption": "呼和浩特星光A9存档 ",
+        "label": 1
+    },
+    "2163": {
+        "direct_path": "train/img_html_news/1584",
+        "inv_path": "train/inverse_search/1584",
+        "image_path": "train/img/1584.jpg",
+        "caption": "一群法语纯粹主义者针对巴黎圣母院的法文标识仅被翻译成英文提起了法律诉讼英国卫报22日报道",
+        "label": 0
+    },
+    "7378": {
+        "direct_path": "val/img_html_news/393",
+        "inv_path": "val/inverse_search/393",
+        "image_path": "val/img/393.jpg",
+        "caption": "长月烬明为啥浮粉这么严重罗云熙的泪珠子都是白色儿的",
+        "label": 2
+    },
+    "413": {
+        "direct_path": "test/img_html_news/1142",
+        "inv_path": "test/inverse_search/1142",
+        "image_path": "test/img/1142.jpg",
+        "caption": "我的评价是小时候长得像女孩子长大了当0过于没品，应该长大后成为大美1炒饭全世界",
+        "label": 2
+    },
+    "1161": {
+        "direct_path": "train/img_html_news/582",
+        "inv_path": "train/inverse_search/582",
+        "image_path": "train/img/582.jpg",
+        "caption": "郑州恒大全面解散一个时代结束了 ",
+        "label": 1
+    },
+    "6639": {
+        "direct_path": "train/img_html_news/6060",
+        "inv_path": "train/inverse_search/6060",
+        "image_path": "train/img/6060.jpg",
+        "caption": "蝶与海之舞 蓝色的蝴蝶像飞溅出来的浪花一般翩翩起舞",
+        "label": 2
+    },
+    "4812": {
+        "direct_path": "train/img_html_news/4233",
+        "inv_path": "train/inverse_search/4233",
+        "image_path": "train/img/4233.jpg",
+        "caption": "每个开特斯拉的人车上都会有一个手机支架拿来专门看导航这破车自带的导航嗨蠢",
+        "label": 2
+    },
+    "5198": {
+        "direct_path": "train/img_html_news/4619",
+        "inv_path": "train/inverse_search/4619",
+        "image_path": "train/img/4619.jpg",
+        "caption": "狐妖小红娘后期做好没啊想看得要命",
+        "label": 2
+    },
+    "3917": {
+        "direct_path": "train/img_html_news/3338",
+        "inv_path": "train/inverse_search/3338",
+        "image_path": "train/img/3338.jpg",
+        "caption": "关注新冠肺炎2022年7月31日024时上海无新增本土新冠肺炎确诊病例和无症状感染者",
+        "label": 0
+    },
+    "6624": {
+        "direct_path": "train/img_html_news/6045",
+        "inv_path": "train/inverse_search/6045",
+        "image_path": "train/img/6045.jpg",
+        "caption": "人生建议 穿丝袜别喝酒 喝酒别上厕所",
+        "label": 2
+    },
+    "2245": {
+        "direct_path": "train/img_html_news/1666",
+        "inv_path": "train/inverse_search/1666",
+        "image_path": "train/img/1666.jpg",
+        "caption": "青海大通山洪已成功搜救失联人员20名 记者从青海大通县融媒体中心获悉经过救援队伍全力以赴搜救",
+        "label": 0
+    },
+    "3622": {
+        "direct_path": "train/img_html_news/3043",
+        "inv_path": "train/inverse_search/3043",
+        "image_path": "train/img/3043.jpg",
+        "caption": "哪个国家对外企更开放中国外交部部长助理发言人华春莹北京时间27日晚在社交媒体推特这样发问道",
+        "label": 0
+    },
+    "5627": {
+        "direct_path": "train/img_html_news/5048",
+        "inv_path": "train/inverse_search/5048",
+        "image_path": "train/img/5048.jpg",
+        "caption": "96年属鼠在赣州市人民医院做护士明天工作8小时陌生人你能给我说一声加油吗 赣州赣州市人民医院南院",
+        "label": 2
+    },
+    "458": {
+        "direct_path": "test/img_html_news/1187",
+        "inv_path": "test/inverse_search/1187",
+        "image_path": "test/img/1187.jpg",
+        "caption": "为了庆祝生日世趋最高第7被五男一世趋第1碾压赞赞抽7瓶七喜希望大家看到7就可以想起来可怜的痲痲是五男7抽奖详情",
+        "label": 2
+    },
+    "6512": {
+        "direct_path": "train/img_html_news/5933",
+        "inv_path": "train/inverse_search/5933",
+        "image_path": "train/img/5933.jpg",
+        "caption": "从此 有人问我粥可温有人与我共黄昏 囍' 囍",
+        "label": 2
+    },
+    "926": {
+        "direct_path": "train/img_html_news/347",
+        "inv_path": "train/inverse_search/347",
+        "image_path": "train/img/347.jpg",
+        "caption": "乌克兰已经起草了一份乌克兰学生动员法令草案中学生和大学生将被征招 ",
+        "label": 1
+    },
+    "1069": {
+        "direct_path": "train/img_html_news/490",
+        "inv_path": "train/inverse_search/490",
+        "image_path": "train/img/490.jpg",
+        "caption": "广州海珠区疫情防控 下楼做个核酸还看到好多运面料的人特别是6点过后就开始多了拜托这些商家做个人吧疫情都乱成什么样了 ",
+        "label": 1
+    },
+    "5910": {
+        "direct_path": "train/img_html_news/5331",
+        "inv_path": "train/inverse_search/5331",
+        "image_path": "train/img/5331.jpg",
+        "caption": "好多人在瑞幸打工被罚抄",
+        "label": 2
+    },
+    "3712": {
+        "direct_path": "train/img_html_news/3133",
+        "inv_path": "train/inverse_search/3133",
+        "image_path": "train/img/3133.jpg",
+        "caption": "教育部开通举报电话和邮箱记者6月6日从教育部获悉教育部近日召开高校毕业生就业工作调度会",
+        "label": 0
+    },
+    "3566": {
+        "direct_path": "train/img_html_news/2987",
+        "inv_path": "train/inverse_search/2987",
+        "image_path": "train/img/2987.jpg",
+        "caption": "刚刚温州警方发布警情通报3月31日",
+        "label": 0
+    },
+    "1423": {
+        "direct_path": "train/img_html_news/844",
+        "inv_path": "train/inverse_search/844",
+        "image_path": "train/img/844.jpg",
+        "caption": "烈士子女高考加20分引起了部分家长不满看到这个消息眼泪忍不住的就流下来了实在想不明白这些家长是怎么想的区区20分能换会孩子的爸爸吗女孩的爸爸为国",
+        "label": 1
+    },
+    "5164": {
+        "direct_path": "train/img_html_news/4585",
+        "inv_path": "train/inverse_search/4585",
+        "image_path": "train/img/4585.jpg",
+        "caption": "网红车手张雷被曝车祸去世近日网红圈又有噩耗传来玩改装车的张雷在一场比赛中车速过快发生意外当场死亡",
+        "label": 2
+    },
+    "5959": {
+        "direct_path": "train/img_html_news/5380",
+        "inv_path": "train/inverse_search/5380",
+        "image_path": "train/img/5380.jpg",
+        "caption": "两个男人合照更好看",
+        "label": 2
+    },
+    "6729": {
+        "direct_path": "train/img_html_news/6150",
+        "inv_path": "train/inverse_search/6150",
+        "image_path": "train/img/6150.jpg",
+        "caption": "桑酒别哭了好心网友找回你的家人了",
+        "label": 2
+    },
+    "6047": {
+        "direct_path": "train/img_html_news/5468",
+        "inv_path": "train/inverse_search/5468",
+        "image_path": "train/img/5468.jpg",
+        "caption": "一不小心写出家乡话",
+        "label": 2
+    },
+    "7045": {
+        "direct_path": "val/img_html_news/60",
+        "inv_path": "val/inverse_search/60",
+        "image_path": "val/img/60.jpg",
+        "caption": "平舆县针对烟花爆竹出台了九个凡是我觉得应当再加一条就十全十美了古人说防民之口甚于防川第十条在全县范围迅速展开清除烟花爆竹文字的清理工作凡是",
+        "label": 1
+    },
+    "3485": {
+        "direct_path": "train/img_html_news/2906",
+        "inv_path": "train/inverse_search/2906",
+        "image_path": "train/img/2906.jpg",
+        "caption": "今天上午神舟十四号载人飞行任务航天员乘组出征仪式在酒泉卫星发射中心问天阁广场举行",
+        "label": 0
+    },
+    "1291": {
+        "direct_path": "train/img_html_news/712",
+        "inv_path": "train/inverse_search/712",
+        "image_path": "train/img/712.jpg",
+        "caption": "华科大宿舍被雷劈了湖北华科大宿舍被雷劈了 ",
+        "label": 1
+    },
+    "1881": {
+        "direct_path": "train/img_html_news/1302",
+        "inv_path": "train/inverse_search/1302",
+        "image_path": "train/img/1302.jpg",
+        "caption": "难得的一个人的轻松时刻刚又看到郑州所有学生离郑本学期不再线下教学新乡总不能也一直线上教学吧哎太难了 ",
+        "label": 1
+    },
+    "3309": {
+        "direct_path": "train/img_html_news/2730",
+        "inv_path": "train/inverse_search/2730",
+        "image_path": "train/img/2730.jpg",
+        "caption": "6月2日应急管理部批准在灭火战斗中牺牲的湖南省长沙市长沙县星沙消防救援站消防员龙耀瑾为烈士",
+        "label": 0
+    },
+    "5423": {
+        "direct_path": "train/img_html_news/4844",
+        "inv_path": "train/inverse_search/4844",
+        "image_path": "train/img/4844.jpg",
+        "caption": "西游记中的穿帮镜头你发现了吗",
+        "label": 2
+    },
+    "7101": {
+        "direct_path": "val/img_html_news/116",
+        "inv_path": "val/inverse_search/116",
+        "image_path": "val/img/116.jpg",
+        "caption": "口罩带起来不然要进进监狱隔离了感冒 ",
+        "label": 1
+    },
+    "7513": {
+        "direct_path": "val/img_html_news/528",
+        "inv_path": "val/inverse_search/528",
+        "image_path": "val/img/528.jpg",
+        "caption": "24 这世上还有谁比我们更绝配",
+        "label": 2
+    },
+    "6099": {
+        "direct_path": "train/img_html_news/5520",
+        "inv_path": "train/inverse_search/5520",
+        "image_path": "train/img/5520.jpg",
+        "caption": "这样的室友放在整个大学里也是相当炸裂的 4月奇趣季 闪光新生代 亿点曝光计划",
+        "label": 2
+    },
+    "4334": {
+        "direct_path": "train/img_html_news/3755",
+        "inv_path": "train/inverse_search/3755",
+        "image_path": "train/img/3755.jpg",
+        "caption": "不仔细看我以为是纯色墙纸好看好看",
+        "label": 2
+    },
+    "6886": {
+        "direct_path": "train/img_html_news/6307",
+        "inv_path": "train/inverse_search/6307",
+        "image_path": "train/img/6307.jpg",
+        "caption": "刚付钱 城管来了",
+        "label": 2
+    },
+    "6741": {
+        "direct_path": "train/img_html_news/6162",
+        "inv_path": "train/inverse_search/6162",
+        "image_path": "train/img/6162.jpg",
+        "caption": "最近跟我一起爬山的男的对我表示有好感 爬完山我晒伤了给我买药送来 我说我自己有登山杖 那男的还是给我买了一个寄我家 我一路上跟他说我带我男朋友爬山可惜这周他工作忙 不然就能一起来了 他默默不做声 我回家后今天发了晒伤的图片给我男朋友 我男朋友回了哈哈哈黑妹 我一下子不知道说什么好 挺感慨的 上海",
+        "label": 2
+    },
+    "5657": {
+        "direct_path": "train/img_html_news/5078",
+        "inv_path": "train/inverse_search/5078",
+        "image_path": "train/img/5078.jpg",
+        "caption": "吴承恩剧本交给我拍摄我不管",
+        "label": 2
+    },
+    "7467": {
+        "direct_path": "val/img_html_news/482",
+        "inv_path": "val/inverse_search/482",
+        "image_path": "val/img/482.jpg",
+        "caption": "毛晓彤",
+        "label": 2
+    },
+    "6533": {
+        "direct_path": "train/img_html_news/5954",
+        "inv_path": "train/inverse_search/5954",
+        "image_path": "train/img/5954.jpg",
+        "caption": "特殊投稿求问图上是哪个角色呀 找了好久没有找到 多谢大家",
+        "label": 2
+    },
+    "3131": {
+        "direct_path": "train/img_html_news/2552",
+        "inv_path": "train/inverse_search/2552",
+        "image_path": "train/img/2552.jpg",
+        "caption": "上半年人均可支配收入18463元7月15日国家统计局发布数据",
+        "label": 0
+    },
+    "472": {
+        "direct_path": "test/img_html_news/1201",
+        "inv_path": "test/inverse_search/1201",
+        "image_path": "test/img/1201.jpg",
+        "caption": "够我明天用了吧去一次演唱会就清理一次手机内存（不喜欢清内存好懒呐）（我还超喜欢截图什么都要截一下两万四千多张截图）下次换手机我绝对换大内存的（1TB）",
+        "label": 2
+    },
+    "1935": {
+        "direct_path": "train/img_html_news/1356",
+        "inv_path": "train/inverse_search/1356",
+        "image_path": "train/img/1356.jpg",
+        "caption": "俄罗斯联邦国防部将向在对乌克兰战争中丧生的俄罗斯士兵家属支付1.1万卢布按照目前的汇率俄罗斯公民的生命为105 美元乌克兰现在不缺钱其实可以招",
+        "label": 1
+    },
+    "5024": {
+        "direct_path": "train/img_html_news/4445",
+        "inv_path": "train/inverse_search/4445",
+        "image_path": "train/img/4445.jpg",
+        "caption": "这组婚纱真的很绝",
+        "label": 2
+    },
+    "6144": {
+        "direct_path": "train/img_html_news/5565",
+        "inv_path": "train/inverse_search/5565",
+        "image_path": "train/img/5565.jpg",
+        "caption": "老板娶了秘书 医生娶了护士 校长娶了老师 厨师娶了服务员 导演娶了演员 我开大货车的可以娶交警吗",
+        "label": 2
+    },
+    "7046": {
+        "direct_path": "val/img_html_news/61",
+        "inv_path": "val/inverse_search/61",
+        "image_path": "val/img/61.jpg",
+        "caption": "这波人已经到达上海我们的叔叔要拿出抗疫的精神去讨伐那些人贩子他们是这个世界上最接近恶魔的人人贩子 上海 ",
+        "label": 1
+    },
+    "4109": {
+        "direct_path": "train/img_html_news/3530",
+        "inv_path": "train/inverse_search/3530",
+        "image_path": "train/img/3530.jpg",
+        "caption": "谷雨快乐",
+        "label": 2
+    },
+    "5252": {
+        "direct_path": "train/img_html_news/4673",
+        "inv_path": "train/inverse_search/4673",
+        "image_path": "train/img/4673.jpg",
+        "caption": "六公主谈柯南争议感谢六公主和鲁豫姐姐当我的嘴替",
+        "label": 2
+    },
+    "2791": {
+        "direct_path": "train/img_html_news/2212",
+        "inv_path": "train/inverse_search/2212",
+        "image_path": "train/img/2212.jpg",
+        "caption": "8月17日陕西勉县发布情况通报8月15日",
+        "label": 0
+    },
+    "2711": {
+        "direct_path": "train/img_html_news/2132",
+        "inv_path": "train/inverse_search/2132",
+        "image_path": "train/img/2132.jpg",
+        "caption": "据韩联社报道对于美媒日前报道美军泄密文件爆料韩国政府高层疑遭美国监听一事",
+        "label": 0
+    },
+    "7026": {
+        "direct_path": "val/img_html_news/41",
+        "inv_path": "val/inverse_search/41",
+        "image_path": "val/img/41.jpg",
+        "caption": "唐山被打女生去世唐山女孩被暴力围殴是所有人的噩梦 ",
+        "label": 1
+    },
+    "4774": {
+        "direct_path": "train/img_html_news/4195",
+        "inv_path": "train/inverse_search/4195",
+        "image_path": "train/img/4195.jpg",
+        "caption": "我服了 泰国人真的好会拍啊 法国Menton",
+        "label": 2
+    },
+    "3963": {
+        "direct_path": "train/img_html_news/3384",
+        "inv_path": "train/inverse_search/3384",
+        "image_path": "train/img/3384.jpg",
+        "caption": "安徽宿州新增确诊9例2022年6月30日024时安徽省报告新增确诊病例9例均在宿州市泗县",
+        "label": 0
+    },
+    "2158": {
+        "direct_path": "train/img_html_news/1579",
+        "inv_path": "train/inverse_search/1579",
+        "image_path": "train/img/1579.jpg",
+        "caption": "5月8日024时辽宁省无新增新冠肺炎确诊病例",
+        "label": 0
+    },
+    "3498": {
+        "direct_path": "train/img_html_news/2919",
+        "inv_path": "train/inverse_search/2919",
+        "image_path": "train/img/2919.jpg",
+        "caption": "记者从洛阳市文物考古研究院获悉洛阳徐阳墓地M15大型墓葬陪葬车马坑的清理发掘工作接近尾声",
+        "label": 0
+    },
+    "5369": {
+        "direct_path": "train/img_html_news/4790",
+        "inv_path": "train/inverse_search/4790",
+        "image_path": "train/img/4790.jpg",
+        "caption": "感觉 这是被宰了呀",
+        "label": 2
+    },
+    "6515": {
+        "direct_path": "train/img_html_news/5936",
+        "inv_path": "train/inverse_search/5936",
+        "image_path": "train/img/5936.jpg",
+        "caption": "萌兰以前和萌大住隔壁两兄弟拔河结果萌兰把绳子绕在木头上了笑看萌大和木头拔河 他好聪明啊",
+        "label": 2
+    },
+    "7540": {
+        "direct_path": "val/img_html_news/555",
+        "inv_path": "val/inverse_search/555",
+        "image_path": "val/img/555.jpg",
+        "caption": "1977年的教育厅长还是比较年轻的的 最年轻的女候补中委",
+        "label": 2
+    },
+    "5608": {
+        "direct_path": "train/img_html_news/5029",
+        "inv_path": "train/inverse_search/5029",
+        "image_path": "train/img/5029.jpg",
+        "caption": "不跟好朋友见面的大学生很容易死",
+        "label": 2
+    },
+    "7277": {
+        "direct_path": "val/img_html_news/292",
+        "inv_path": "val/inverse_search/292",
+        "image_path": "val/img/292.jpg",
+        "caption": "20日中国驻柬埔寨大使馆发布致在柬台湾同胞的一封信近来",
+        "label": 0
+    },
+    "3961": {
+        "direct_path": "train/img_html_news/3382",
+        "inv_path": "train/inverse_search/3382",
+        "image_path": "train/img/3382.jpg",
+        "caption": "23日外交部发言人汪文斌主持例行记者会",
+        "label": 0
+    },
+    "1727": {
+        "direct_path": "train/img_html_news/1148",
+        "inv_path": "train/inverse_search/1148",
+        "image_path": "train/img/1148.jpg",
+        "caption": "老西门社区服务中心全军覆没这个太夸张了上海疫情 ",
+        "label": 1
+    },
+    "2206": {
+        "direct_path": "train/img_html_news/1627",
+        "inv_path": "train/inverse_search/1627",
+        "image_path": "train/img/1627.jpg",
+        "caption": "芬兰总统尼尼斯托和总理马林15日举行联合记者会宣布芬兰政府当天正式决定向北约提出加入申请",
+        "label": 0
+    },
+    "3969": {
+        "direct_path": "train/img_html_news/3390",
+        "inv_path": "train/inverse_search/3390",
+        "image_path": "train/img/3390.jpg",
+        "caption": "4月14日下午国家主席习近平在人民大会堂同来华进行国事访问的巴西总统卢拉举行会谈",
+        "label": 0
+    },
+    "2654": {
+        "direct_path": "train/img_html_news/2075",
+        "inv_path": "train/inverse_search/2075",
+        "image_path": "train/img/2075.jpg",
+        "caption": "吉林新增本土确诊1340例3月30日024时31个省自治区直辖市和新疆生产建设兵团报告新增确诊病例1839例",
+        "label": 0
+    },
+    "4053": {
+        "direct_path": "train/img_html_news/3474",
+        "inv_path": "train/inverse_search/3474",
+        "image_path": "train/img/3474.jpg",
+        "caption": "优秀男人和废男人九大特征你们看说的对吗 微博vc计划",
+        "label": 2
+    },
+    "870": {
+        "direct_path": "train/img_html_news/291",
+        "inv_path": "train/inverse_search/291",
+        "image_path": "train/img/291.jpg",
+        "caption": "深圳卫健委你绿的吧笑哈哈笑哈哈笑哈哈深圳疫情 ",
+        "label": 1
+    },
+    "898": {
+        "direct_path": "train/img_html_news/319",
+        "inv_path": "train/inverse_search/319",
+        "image_path": "train/img/319.jpg",
+        "caption": "重庆航班重庆航班都取消了公共安全原因啥情况 ",
+        "label": 1
+    },
+    "3872": {
+        "direct_path": "train/img_html_news/3293",
+        "inv_path": "train/inverse_search/3293",
+        "image_path": "train/img/3293.jpg",
+        "caption": "据纽约时报30日报道美国纽约曼哈顿大陪审团当天投票决定",
+        "label": 0
+    },
+    "1269": {
+        "direct_path": "train/img_html_news/690",
+        "inv_path": "train/inverse_search/690",
+        "image_path": "train/img/690.jpg",
+        "caption": "难怪英国躺平了 话说我对这老太太印象还挺好的第一个因为新冠没了的国家元首吧 英女王在睡梦中因为新冠过世英国女皇因为新冠去世英女王新冠去世 http",
+        "label": 1
+    },
+    "1597": {
+        "direct_path": "train/img_html_news/1018",
+        "inv_path": "train/inverse_search/1018",
+        "image_path": "train/img/1018.jpg",
+        "caption": "分享图片 ",
+        "label": 1
+    },
+    "2280": {
+        "direct_path": "train/img_html_news/1701",
+        "inv_path": "train/inverse_search/1701",
+        "image_path": "train/img/1701.jpg",
+        "caption": "30日俄罗斯联邦安全局发布消息称",
+        "label": 0
+    },
+    "7612": {
+        "direct_path": "val/img_html_news/627",
+        "inv_path": "val/inverse_search/627",
+        "image_path": "val/img/627.jpg",
+        "caption": "宿舍一起做的展示牌",
+        "label": 2
+    },
+    "1472": {
+        "direct_path": "train/img_html_news/893",
+        "inv_path": "train/inverse_search/893",
+        "image_path": "train/img/893.jpg",
+        "caption": "看图作文 ",
+        "label": 1
+    },
+    "1647": {
+        "direct_path": "train/img_html_news/1068",
+        "inv_path": "train/inverse_search/1068",
+        "image_path": "train/img/1068.jpg",
+        "caption": "这年头也是啥人都有了 ",
+        "label": 1
+    },
+    "3852": {
+        "direct_path": "train/img_html_news/3273",
+        "inv_path": "train/inverse_search/3273",
+        "image_path": "train/img/3273.jpg",
+        "caption": "据法新社援引伊朗和沙特媒体的消息报道沙特外交大臣费萨尔和伊朗外交部长阿卜杜拉希扬6日在北京会见",
+        "label": 0
+    },
+    "6467": {
+        "direct_path": "train/img_html_news/5888",
+        "inv_path": "train/inverse_search/5888",
+        "image_path": "train/img/5888.jpg",
+        "caption": "真心建议所有女性",
+        "label": 2
+    },
+    "6969": {
+        "direct_path": "train/img_html_news/6390",
+        "inv_path": "train/inverse_search/6390",
+        "image_path": "train/img/6390.jpg",
+        "caption": "我回家一趟外婆养的家禽就死伤惨重",
+        "label": 2
+    },
+    "5450": {
+        "direct_path": "train/img_html_news/4871",
+        "inv_path": "train/inverse_search/4871",
+        "image_path": "train/img/4871.jpg",
+        "caption": "组织开会搬砖多年终于有个头衔了",
+        "label": 2
+    },
+    "6455": {
+        "direct_path": "train/img_html_news/5876",
+        "inv_path": "train/inverse_search/5876",
+        "image_path": "train/img/5876.jpg",
+        "caption": "不幸的是癌症了 幸运的是癌症里最温柔的",
+        "label": 2
+    },
+    "4590": {
+        "direct_path": "train/img_html_news/4011",
+        "inv_path": "train/inverse_search/4011",
+        "image_path": "train/img/4011.jpg",
+        "caption": "没p图 没修脸 没拉腿 没说实话",
+        "label": 2
+    },
+    "7018": {
+        "direct_path": "val/img_html_news/33",
+        "inv_path": "val/inverse_search/33",
+        "image_path": "val/img/33.jpg",
+        "caption": "上海浦东jiansha ",
+        "label": 1
+    },
+    "7191": {
+        "direct_path": "val/img_html_news/206",
+        "inv_path": "val/inverse_search/206",
+        "image_path": "val/img/206.jpg",
+        "caption": "近日有网传视频称",
+        "label": 0
+    },
+    "325": {
+        "direct_path": "test/img_html_news/1054",
+        "inv_path": "test/inverse_search/1054",
+        "image_path": "test/img/1054.jpg",
+        "caption": "刚刚结束的2023中国羽毛球公开赛女双决赛，世界排名第一的中国队组合陈清晨/贾一凡以2-0击败赛会2号种子韩国队组合白荷娜/李绍希，夺得冠军。恭喜！   ",
+        "label": 0
+    },
+    "3476": {
+        "direct_path": "train/img_html_news/2897",
+        "inv_path": "train/inverse_search/2897",
+        "image_path": "train/img/2897.jpg",
+        "caption": "在4月3日举行的外交部例行记者会上有记者就中国网络安全审查办公室对美芯片公司美光公司在华销售的产品实施网络安全审查一事进行提问",
+        "label": 0
+    },
+    "3112": {
+        "direct_path": "train/img_html_news/2533",
+        "inv_path": "train/inverse_search/2533",
+        "image_path": "train/img/2533.jpg",
+        "caption": "两年过去了我们无时不在思念你们",
+        "label": 0
+    },
+    "4560": {
+        "direct_path": "train/img_html_news/3981",
+        "inv_path": "train/inverse_search/3981",
+        "image_path": "train/img/3981.jpg",
+        "caption": "及川彻不是天才",
+        "label": 2
+    },
+    "5209": {
+        "direct_path": "train/img_html_news/4630",
+        "inv_path": "train/inverse_search/4630",
+        "image_path": "train/img/4630.jpg",
+        "caption": "昨天和上海來賓各一言和晚上繼續歡宴他們",
+        "label": 2
+    },
+    "5355": {
+        "direct_path": "train/img_html_news/4776",
+        "inv_path": "train/inverse_search/4776",
+        "image_path": "train/img/4776.jpg",
+        "caption": "这些事不要告诉别人",
+        "label": 2
+    },
+    "2456": {
+        "direct_path": "train/img_html_news/1877",
+        "inv_path": "train/inverse_search/1877",
+        "image_path": "train/img/1877.jpg",
+        "caption": "你看这个大白跟奥运冠军李晓霞一个名!",
+        "label": 0
+    },
+    "246": {
+        "direct_path": "test/img_html_news/975",
+        "inv_path": "test/inverse_search/975",
+        "image_path": "test/img/975.jpg",
+        "caption": "乌克兰总统办公室顾问波多利亚克一句话，成为多家外媒关注焦点。综合俄新社、塔斯社、“今日俄罗斯”等多家外媒12日报道，波多利亚克接受媒体采访时发表“中国和印度智力潜力弱”的看法，称这两个国家“不分析自身",
+        "label": 0
+    },
+    "4306": {
+        "direct_path": "train/img_html_news/3727",
+        "inv_path": "train/inverse_search/3727",
+        "image_path": "train/img/3727.jpg",
+        "caption": "什么七种武器之首",
+        "label": 2
+    },
+    "5112": {
+        "direct_path": "train/img_html_news/4533",
+        "inv_path": "train/inverse_search/4533",
+        "image_path": "train/img/4533.jpg",
+        "caption": "有这样的男朋友你几点回家",
+        "label": 2
+    },
+    "2802": {
+        "direct_path": "train/img_html_news/2223",
+        "inv_path": "train/inverse_search/2223",
+        "image_path": "train/img/2223.jpg",
+        "caption": "镇宁宣传 26日通报针对网民反映我县一名两岁女童疑患性病及疑似被性侵的情况我县高度重视",
+        "label": 0
+    },
+    "6370": {
+        "direct_path": "train/img_html_news/5791",
+        "inv_path": "train/inverse_search/5791",
+        "image_path": "train/img/5791.jpg",
+        "caption": "哪些出装方式会暴露这个玩家不太会玩 王者荣耀 电竞星联盟",
+        "label": 2
+    },
+    "4748": {
+        "direct_path": "train/img_html_news/4169",
+        "inv_path": "train/inverse_search/4169",
+        "image_path": "train/img/4169.jpg",
+        "caption": "奚梦瑶又回应了 这次我也记住了",
+        "label": 2
+    },
+    "3506": {
+        "direct_path": "train/img_html_news/2927",
+        "inv_path": "train/inverse_search/2927",
+        "image_path": "train/img/2927.jpg",
+        "caption": "据美国政治新闻网当地时间12日报道在上周被推特打上国家附属媒体标签后",
+        "label": 0
+    },
+    "2097": {
+        "direct_path": "train/img_html_news/1518",
+        "inv_path": "train/inverse_search/1518",
+        "image_path": "train/img/1518.jpg",
+        "caption": "警察招录优先符合条件的公安烈士子女公安部党委近日印发指导意见要求进一步加大爱警暖警工作力度",
+        "label": 0
+    },
+    "2172": {
+        "direct_path": "train/img_html_news/1593",
+        "inv_path": "train/inverse_search/1593",
+        "image_path": "train/img/1593.jpg",
+        "caption": "记者从中国国家铁路集团有限公司以下简称国铁集团获悉针对近期全国疫情多点散发多地频发的情况",
+        "label": 0
+    },
+    "4778": {
+        "direct_path": "train/img_html_news/4199",
+        "inv_path": "train/inverse_search/4199",
+        "image_path": "train/img/4199.jpg",
+        "caption": "一些尺寸的参考图先存 说不定哪天有用哦",
+        "label": 2
+    },
+    "3520": {
+        "direct_path": "train/img_html_news/2941",
+        "inv_path": "train/inverse_search/2941",
+        "image_path": "train/img/2941.jpg",
+        "caption": " 4月4日13时30分许4名外省人员三男一女在天门山跳崖",
+        "label": 0
+    },
+    "4087": {
+        "direct_path": "train/img_html_news/3508",
+        "inv_path": "train/inverse_search/3508",
+        "image_path": "train/img/3508.jpg",
+        "caption": "十二星座喜欢你的表现 水逆退散",
+        "label": 2
+    },
+    "7652": {
+        "direct_path": "val/img_html_news/667",
+        "inv_path": "val/inverse_search/667",
+        "image_path": "val/img/667.jpg",
+        "caption": "五问北京长峰医院火灾事故4月18日12时57分丰台区消防救援支队接警北京长峰医院住院部东楼发生火情13时33分现场明火被扑灭截至19日9时经转院救治无效29人遇难 为何会造成该事故目前人员救治伤亡情况如何后续还有哪些事情值得关注北京长峰医院是一家怎样的医院五问北京长峰医院火灾事故凤凰网资讯凤凰网",
+        "label": 2
+    },
+    "6403": {
+        "direct_path": "train/img_html_news/5824",
+        "inv_path": "train/inverse_search/5824",
+        "image_path": "train/img/5824.jpg",
+        "caption": "和叶我今天才知道我还穿 不过一旦接受这个设定越看越",
+        "label": 2
+    },
+    "53": {
+        "direct_path": "test/img_html_news/782",
+        "inv_path": "test/inverse_search/782",
+        "image_path": "test/img/782.jpg",
+        "caption": "长沙医院院没人管管吗？？？宿舍甲醛超标 收着最贵的学费住着最差的环境 这个社会是怎么了 都爆出来这么多料了 该举报举报 建议上面好好查一下该学校领导 背...",
+        "label": 1
+    },
+    "319": {
+        "direct_path": "test/img_html_news/1048",
+        "inv_path": "test/inverse_search/1048",
+        "image_path": "test/img/1048.jpg",
+        "caption": "  襄阳盛世唐城景区官方微信10日发布致歉信：   ",
+        "label": 0
+    },
+    "693": {
+        "direct_path": "train/img_html_news/114",
+        "inv_path": "train/inverse_search/114",
+        "image_path": "train/img/114.jpg",
+        "caption": "咱就是说人性的险恶永远不知道有多深刚群里传出来联邦楼下有人被杀害还分尸了朋友说看到砍人视频第一次看到吐这世道还能安心外出不前有疫情阻拦",
+        "label": 1
+    },
+    "6861": {
+        "direct_path": "train/img_html_news/6282",
+        "inv_path": "train/inverse_search/6282",
+        "image_path": "train/img/6282.jpg",
+        "caption": "有趣好玩的表情包",
+        "label": 2
+    },
+    "1244": {
+        "direct_path": "train/img_html_news/665",
+        "inv_path": "train/inverse_search/665",
+        "image_path": "train/img/665.jpg",
+        "caption": "包头一醉酒男子掉进5米深井11月25日二连浩特市一男子醉酒后不慎跌入5米深井后被消防员及民警联手救出事发当日9时09分锡林郭勒盟消防救援支队二连浩特市方",
+        "label": 1
+    },
+    "5615": {
+        "direct_path": "train/img_html_news/5036",
+        "inv_path": "train/inverse_search/5036",
+        "image_path": "train/img/5036.jpg",
+        "caption": "长手上了这玩意周雨彤微博",
+        "label": 2
+    },
+    "3618": {
+        "direct_path": "train/img_html_news/3039",
+        "inv_path": "train/inverse_search/3039",
+        "image_path": "train/img/3039.jpg",
+        "caption": "3月31日下午国家主席习近平在人民大会堂会见来华进行正式访问的马来西亚总理安瓦尔",
+        "label": 0
+    },
+    "3787": {
+        "direct_path": "train/img_html_news/3208",
+        "inv_path": "train/inverse_search/3208",
+        "image_path": "train/img/3208.jpg",
+        "caption": "7月5日6时顺义区在核酸检测中发现2名阳性人员",
+        "label": 0
+    },
+    "7280": {
+        "direct_path": "val/img_html_news/295",
+        "inv_path": "val/inverse_search/295",
+        "image_path": "val/img/295.jpg",
+        "caption": "日前经中共中央批准",
+        "label": 0
+    },
+    "4332": {
+        "direct_path": "train/img_html_news/3753",
+        "inv_path": "train/inverse_search/3753",
+        "image_path": "train/img/3753.jpg",
+        "caption": "twi减轻房贷压力的方法",
+        "label": 2
+    },
+    "7144": {
+        "direct_path": "val/img_html_news/159",
+        "inv_path": "val/inverse_search/159",
+        "image_path": "val/img/159.jpg",
+        "caption": "人生没有如果时间从不等人",
+        "label": 0
+    },
+    "3613": {
+        "direct_path": "train/img_html_news/3034",
+        "inv_path": "train/inverse_search/3034",
+        "image_path": "train/img/3034.jpg",
+        "caption": "6月28日024时31个省自治区直辖市和新疆生产建设兵团报告新增确诊病例24例",
+        "label": 0
+    },
+    "6888": {
+        "direct_path": "train/img_html_news/6309",
+        "inv_path": "train/inverse_search/6309",
+        "image_path": "train/img/6309.jpg",
+        "caption": "长空之王北京首映礼4月23日相见搏击长空蓄势待发电影预售进行中4月28日银幕见",
+        "label": 2
+    },
+    "3526": {
+        "direct_path": "train/img_html_news/2947",
+        "inv_path": "train/inverse_search/2947",
+        "image_path": "train/img/2947.jpg",
+        "caption": "今天的国宝睡前故事来自三星堆博物馆藏品商代金面铜人像",
+        "label": 0
+    },
+    "4443": {
+        "direct_path": "train/img_html_news/3864",
+        "inv_path": "train/inverse_search/3864",
+        "image_path": "train/img/3864.jpg",
+        "caption": "香港我的伤心地 香港",
+        "label": 2
+    },
+    "2601": {
+        "direct_path": "train/img_html_news/2022",
+        "inv_path": "train/inverse_search/2022",
+        "image_path": "train/img/2022.jpg",
+        "caption": " 据美媒11日报道当地时间10日下午",
+        "label": 0
+    },
+    "7064": {
+        "direct_path": "val/img_html_news/79",
+        "inv_path": "val/inverse_search/79",
+        "image_path": "val/img/79.jpg",
+        "caption": "西安疫情西安疫情传播链条还不清楚西安 先说明这消息不知道是真的还是假的我就想知道真相有没有牛人知道微笑12月5号灞桥境外隔离酒店工作人",
+        "label": 1
+    },
+    "991": {
+        "direct_path": "train/img_html_news/412",
+        "inv_path": "train/inverse_search/412",
+        "image_path": "train/img/412.jpg",
+        "caption": "必须去 ",
+        "label": 1
+    },
+    "2267": {
+        "direct_path": "train/img_html_news/1688",
+        "inv_path": "train/inverse_search/1688",
+        "image_path": "train/img/1688.jpg",
+        "caption": "据CGTN记者团 4月5日下午法国总统马克龙抵达北京首都国际机场",
+        "label": 0
+    },
+    "5717": {
+        "direct_path": "train/img_html_news/5138",
+        "inv_path": "train/inverse_search/5138",
+        "image_path": "train/img/5138.jpg",
+        "caption": "中国说唱巅峰对决方言喊话官宣 还有辣个想和我在巅峰碰一碰巴适的板中国说唱巅峰对决",
+        "label": 2
+    },
+    "7289": {
+        "direct_path": "val/img_html_news/304",
+        "inv_path": "val/inverse_search/304",
+        "image_path": "val/img/304.jpg",
+        "caption": "4月4日024时31个省自治区直辖市和新疆生产建设兵团报告新增确诊病例1235例",
+        "label": 0
+    },
+    "511": {
+        "direct_path": "test/img_html_news/1240",
+        "inv_path": "test/inverse_search/1240",
+        "image_path": "test/img/1240.jpg",
+        "caption": "谁是你心目中的反派TOP1是谁？",
+        "label": 2
+    },
+    "5971": {
+        "direct_path": "train/img_html_news/5392",
+        "inv_path": "train/inverse_search/5392",
+        "image_path": "train/img/5392.jpg",
+        "caption": "王晶的女人缘没话说下台就把女演员搂着走两个人关系真是亲密女演员穿着白色的长裙跟王晶站在一起合影时刻露出害羞的表情看起来青春动人",
+        "label": 2
+    },
+    "6033": {
+        "direct_path": "train/img_html_news/5454",
+        "inv_path": "train/inverse_search/5454",
+        "image_path": "train/img/5454.jpg",
+        "caption": "被裁员很开心直接拿十六万走了",
+        "label": 2
+    },
+    "7483": {
+        "direct_path": "val/img_html_news/498",
+        "inv_path": "val/inverse_search/498",
+        "image_path": "val/img/498.jpg",
+        "caption": "你们见过车牌号有三个字母的吗",
+        "label": 2
+    },
+    "286": {
+        "direct_path": "test/img_html_news/1015",
+        "inv_path": "test/inverse_search/1015",
+        "image_path": "test/img/1015.jpg",
+        "caption": "当地时间9月11日，俄罗斯总统新闻秘书佩斯科夫表示，普京与金正恩将于近日会晤。除有代表团成员参加的会谈外，两人还将进行一对一会谈。佩斯科夫表示，普京和金正恩将重点讨论双边关系。俄罗斯认为自己有责任与朝",
+        "label": 0
+    },
+    "4207": {
+        "direct_path": "train/img_html_news/3628",
+        "inv_path": "train/inverse_search/3628",
+        "image_path": "train/img/3628.jpg",
+        "caption": "上班三天被辞退了靠发疯拿到了补偿",
+        "label": 2
+    },
+    "6230": {
+        "direct_path": "train/img_html_news/5651",
+        "inv_path": "train/inverse_search/5651",
+        "image_path": "train/img/5651.jpg",
+        "caption": "炸了 昭通威信县",
+        "label": 2
+    },
+    "5698": {
+        "direct_path": "train/img_html_news/5119",
+        "inv_path": "train/inverse_search/5119",
+        "image_path": "train/img/5119.jpg",
+        "caption": "穿牛仔花边波浪裙美美踏春啦潮流生活我超爱",
+        "label": 2
+    },
+    "4666": {
+        "direct_path": "train/img_html_news/4087",
+        "inv_path": "train/inverse_search/4087",
+        "image_path": "train/img/4087.jpg",
+        "caption": "还有比我们宿舍更炸裂的吗",
+        "label": 2
+    },
+    "474": {
+        "direct_path": "test/img_html_news/1203",
+        "inv_path": "test/inverse_search/1203",
+        "image_path": "test/img/1203.jpg",
+        "caption": "赚这么多钱不交税被罚多少都活该。不过，有意思的是今天还有一个我听都没听过的网红吴川逃税被罚1千多万，袁冰妍居然才这么点，难道现在是反过来了，明星赚不过网红？",
+        "label": 2
+    },
+    "2855": {
+        "direct_path": "train/img_html_news/2276",
+        "inv_path": "train/inverse_search/2276",
+        "image_path": "train/img/2276.jpg",
+        "caption": "新华网 联合微博发起一条plog告别五月活动正在进行小新整理了一些发布内容",
+        "label": 0
+    },
+    "1595": {
+        "direct_path": "train/img_html_news/1016",
+        "inv_path": "train/inverse_search/1016",
+        "image_path": "train/img/1016.jpg",
+        "caption": "无法无天女孩子一个人坐电梯要小心了 ",
+        "label": 1
+    },
+    "3154": {
+        "direct_path": "train/img_html_news/2575",
+        "inv_path": "train/inverse_search/2575",
+        "image_path": "train/img/2575.jpg",
+        "caption": "当地时间3月31日俄罗斯总统普京免去了俄罗斯驻拉脱维亚大使和俄罗斯驻爱沙尼亚大使的职务",
+        "label": 0
+    },
+    "1822": {
+        "direct_path": "train/img_html_news/1243",
+        "inv_path": "train/inverse_search/1243",
+        "image_path": "train/img/1243.jpg",
+        "caption": "乌克兰战争 俄罗斯国防部将向在对乌克兰战争中丧生的炮灰家属支付 11000 卢布这是由乌克兰最高拉达在电报频道中报道的 ",
+        "label": 1
+    },
+    "23": {
+        "direct_path": "test/img_html_news/752",
+        "inv_path": "test/inverse_search/752",
+        "image_path": "test/img/752.jpg",
+        "caption": "深圳市宝安区金碧实验学校，学生不在学校订餐就要被赶出教室淋雨吃饭，不订餐不能进教室午休，禁止家长送餐。校领导好大的官威，配餐公司好硬的关系，怕了怕了…...",
+        "label": 1
+    },
+    "4603": {
+        "direct_path": "train/img_html_news/4024",
+        "inv_path": "train/inverse_search/4024",
+        "image_path": "train/img/4024.jpg",
+        "caption": "流川枫 感谢国家有法律吧你 不然原地把你狠狠办了",
+        "label": 2
+    },
+    "5977": {
+        "direct_path": "train/img_html_news/5398",
+        "inv_path": "train/inverse_search/5398",
+        "image_path": "train/img/5398.jpg",
+        "caption": "声生不息宝岛季 三公上半场开播海报 韋禮安 Kelly于文文 MIC檀健次JCT 与你歌共情 乐同频 心中眷恋仍留存 寓情于歌表爱意 好歌常伴 声生不息 声生不息宝岛季 每周四1930芒果TV 咪咕视频每周五1930湖南卫视每周六2100中天亚洲台2030 TVB 播出",
+        "label": 2
+    },
+    "4695": {
+        "direct_path": "train/img_html_news/4116",
+        "inv_path": "train/inverse_search/4116",
+        "image_path": "train/img/4116.jpg",
+        "caption": "美人出浴",
+        "label": 2
+    },
+    "1681": {
+        "direct_path": "train/img_html_news/1102",
+        "inv_path": "train/inverse_search/1102",
+        "image_path": "train/img/1102.jpg",
+        "caption": "这就很尴尬了被吹嘘新冠特效药的辉瑞其壮年期的高管死于新冠病毒是不敢用辉瑞还是辉瑞没效果其实话说回来辉瑞自己就曾说对只对轻中症患者有效果还是特定条",
+        "label": 1
+    },
+    "7098": {
+        "direct_path": "val/img_html_news/113",
+        "inv_path": "val/inverse_search/113",
+        "image_path": "val/img/113.jpg",
+        "caption": "别人用口罩在做善事而你用口罩在做恶事天津以案说法 ",
+        "label": 1
+    },
+    "5949": {
+        "direct_path": "train/img_html_news/5370",
+        "inv_path": "train/inverse_search/5370",
+        "image_path": "train/img/5370.jpg",
+        "caption": "2814",
+        "label": 2
+    },
+    "978": {
+        "direct_path": "train/img_html_news/399",
+        "inv_path": "train/inverse_search/399",
+        "image_path": "train/img/399.jpg",
+        "caption": "唐山称打人事件给这座英雄的城市抹了黑唐山女孩去世 ",
+        "label": 1
+    },
+    "7604": {
+        "direct_path": "val/img_html_news/619",
+        "inv_path": "val/inverse_search/619",
+        "image_path": "val/img/619.jpg",
+        "caption": "北京长峰医院重大火灾事故挂牌督办据应急管理部官微消息4月18日北京市丰台区北京长峰医院发生一起重大火灾事故目前已造成29人死亡国务院安委会决定对该起重大事故查处实行挂牌督办并派员参与帮助指导北京市调查组工作国务院安委会要求要依照生产安全事故报告和调查处理条例等有关法律法规及规章规定抓紧组织开展事故调查迅速查明事故原因严肃追责问责北京成立418火灾事故调查组",
+        "label": 2
+    },
+    "6666": {
+        "direct_path": "train/img_html_news/6087",
+        "inv_path": "train/inverse_search/6087",
+        "image_path": "train/img/6087.jpg",
+        "caption": "微信bug.以后不敢偷窥别人朋友圈了",
+        "label": 2
+    },
+    "1496": {
+        "direct_path": "train/img_html_news/917",
+        "inv_path": "train/inverse_search/917",
+        "image_path": "train/img/917.jpg",
+        "caption": "我靠韩国连汉字都想申遗这事真假啊 ",
+        "label": 1
+    },
+    "4648": {
+        "direct_path": "train/img_html_news/4069",
+        "inv_path": "train/inverse_search/4069",
+        "image_path": "train/img/4069.jpg",
+        "caption": "关于中医为啥这么排斥牛奶",
+        "label": 2
+    },
+    "1777": {
+        "direct_path": "train/img_html_news/1198",
+        "inv_path": "train/inverse_search/1198",
+        "image_path": "train/img/1198.jpg",
+        "caption": "分享图片 ",
+        "label": 1
+    },
+    "5715": {
+        "direct_path": "train/img_html_news/5136",
+        "inv_path": "train/inverse_search/5136",
+        "image_path": "train/img/5136.jpg",
+        "caption": "男朋友让我吃他咬过的鸡翅",
+        "label": 2
+    },
+    "2290": {
+        "direct_path": "train/img_html_news/1711",
+        "inv_path": "train/inverse_search/1711",
+        "image_path": "train/img/1711.jpg",
+        "caption": "美国联邦检察官当地时间周二公布了一项针对山姆班克曼弗里德的新起诉书指控这位现已破产的加密货币交易平台FTX的创始人向中国官员行贿近4000万美元",
+        "label": 0
+    },
+    "683": {
+        "direct_path": "train/img_html_news/104",
+        "inv_path": "train/inverse_search/104",
+        "image_path": "train/img/104.jpg",
+        "caption": "无法无天女孩子一个人坐电梯要小心了 ",
+        "label": 1
+    },
+    "5006": {
+        "direct_path": "train/img_html_news/4427",
+        "inv_path": "train/inverse_search/4427",
+        "image_path": "train/img/4427.jpg",
+        "caption": "潮流生活我超爱 原图直出",
+        "label": 2
+    },
+    "894": {
+        "direct_path": "train/img_html_news/315",
+        "inv_path": "train/inverse_search/315",
+        "image_path": "train/img/315.jpg",
+        "caption": "听说上海已经打赢防疫攻坚战了真是恭喜啊 ",
+        "label": 1
+    },
+    "1733": {
+        "direct_path": "train/img_html_news/1154",
+        "inv_path": "train/inverse_search/1154",
+        "image_path": "train/img/1154.jpg",
+        "caption": "隔离日记Day 1果然还是逃不过拉出来隔离的命啦 本来看到这个住宿条件真滴要哭了 但是听到有些隔离的被拉去住毛胚房和监狱 那还是开心不少了的 果然 人的快乐都是建",
+        "label": 1
+    },
+    "3149": {
+        "direct_path": "train/img_html_news/2570",
+        "inv_path": "train/inverse_search/2570",
+        "image_path": "train/img/2570.jpg",
+        "caption": "据清华大学 中国科学院院士清华大学机械工程系教授潘际銮因病医治无效",
+        "label": 0
+    },
+    "3035": {
+        "direct_path": "train/img_html_news/2456",
+        "inv_path": "train/inverse_search/2456",
+        "image_path": "train/img/2456.jpg",
+        "caption": "记者从公安部获悉公安部日前部署深入开展打击整治枪爆违法犯罪专项行动",
+        "label": 0
+    },
+    "6782": {
+        "direct_path": "train/img_html_news/6203",
+        "inv_path": "train/inverse_search/6203",
+        "image_path": "train/img/6203.jpg",
+        "caption": "湘潭大学偷外卖事件",
+        "label": 2
+    },
+    "7279": {
+        "direct_path": "val/img_html_news/294",
+        "inv_path": "val/inverse_search/294",
+        "image_path": "val/img/294.jpg",
+        "caption": "8月12日0至24时新疆维吾尔自治区新增确诊病例2例为无症状感染者转确诊病例",
+        "label": 0
+    },
+    "4179": {
+        "direct_path": "train/img_html_news/3600",
+        "inv_path": "train/inverse_search/3600",
+        "image_path": "train/img/3600.jpg",
+        "caption": "你们",
+        "label": 2
+    },
+    "140": {
+        "direct_path": "test/img_html_news/869",
+        "inv_path": "test/inverse_search/869",
+        "image_path": "test/img/869.jpg",
+        "caption": "谁啊 为啥破大防",
+        "label": 1
+    },
+    "660": {
+        "direct_path": "train/img_html_news/81",
+        "inv_path": "train/inverse_search/81",
+        "image_path": "train/img/81.jpg",
+        "caption": "陈继志哥哥发文道歉愿意出50万取得对方谅解双手合十态度诚恳唐山陈继志可谓是一战成名了如果不是他被打的两位女生现在还能好好生活下半辈子也不会活在阴",
+        "label": 1
+    },
+    "5795": {
+        "direct_path": "train/img_html_news/5216",
+        "inv_path": "train/inverse_search/5216",
+        "image_path": "train/img/5216.jpg",
+        "caption": "KTV内部资料果然套路满满",
+        "label": 2
+    },
+    "6984": {
+        "direct_path": "train/img_html_news/6405",
+        "inv_path": "train/inverse_search/6405",
+        "image_path": "train/img/6405.jpg",
+        "caption": "在微博我就不装了 男朋友一战成硕 我有个硕士男朋友喽 威海山东大学威海校区",
+        "label": 2
+    },
+    "4247": {
+        "direct_path": "train/img_html_news/3668",
+        "inv_path": "train/inverse_search/3668",
+        "image_path": "train/img/3668.jpg",
+        "caption": "不要摘我我发香味给你 自贡",
+        "label": 2
+    },
+    "615": {
+        "direct_path": "train/img_html_news/36",
+        "inv_path": "train/inverse_search/36",
+        "image_path": "train/img/36.jpg",
+        "caption": "令人心寒湖北随州一位老人在过马路时突然一头栽倒在机动车道上随后就以膝部跪地脸部贴地的姿势一动不动这时突然一辆警车从晕倒的老人身边驶过并且未",
+        "label": 1
+    },
+    "6092": {
+        "direct_path": "train/img_html_news/5513",
+        "inv_path": "train/inverse_search/5513",
+        "image_path": "train/img/5513.jpg",
+        "caption": "宝马mini道歉你笑起来真难看两个猪腰子脸",
+        "label": 2
+    },
+    "1799": {
+        "direct_path": "train/img_html_news/1220",
+        "inv_path": "train/inverse_search/1220",
+        "image_path": "train/img/1220.jpg",
+        "caption": "孩子真的是软肋了怒怒 ",
+        "label": 1
+    },
+    "182": {
+        "direct_path": "test/img_html_news/911",
+        "inv_path": "test/inverse_search/911",
+        "image_path": "test/img/911.jpg",
+        "caption": "公信力就是这样丢的，雪花也是这样崩的！欺骗人民！欺骗群众！欺骗国家！欺骗自己！搞不定人民群众！就扮演人民群众！人生如戏！全靠演技！",
+        "label": 1
+    },
+    "2187": {
+        "direct_path": "train/img_html_news/1608",
+        "inv_path": "train/inverse_search/1608",
+        "image_path": "train/img/1608.jpg",
+        "caption": "7日上午全国政协十三届五次会议举行第二次全体会议",
+        "label": 0
+    },
+    "4631": {
+        "direct_path": "train/img_html_news/4052",
+        "inv_path": "train/inverse_search/4052",
+        "image_path": "train/img/4052.jpg",
+        "caption": "陈都灵腿好细 啊啊啊啊啊啊啊陈都灵腿好绝又直又细姐姐今天也好好看",
+        "label": 2
+    },
+    "7120": {
+        "direct_path": "val/img_html_news/135",
+        "inv_path": "val/inverse_search/135",
+        "image_path": "val/img/135.jpg",
+        "caption": "原来这就是峨眉山的人猴分离罪名还不少嘻嘻笑cry笑哈哈 ",
+        "label": 1
+    },
+    "154": {
+        "direct_path": "test/img_html_news/883",
+        "inv_path": "test/inverse_search/883",
+        "image_path": "test/img/883.jpg",
+        "caption": "有没实现的𠄘诺吗",
+        "label": 1
+    },
+    "4651": {
+        "direct_path": "train/img_html_news/4072",
+        "inv_path": "train/inverse_search/4072",
+        "image_path": "train/img/4072.jpg",
+        "caption": "谁懂男朋友刚睡醒的时候",
+        "label": 2
+    },
+    "743": {
+        "direct_path": "train/img_html_news/164",
+        "inv_path": "train/inverse_search/164",
+        "image_path": "train/img/164.jpg",
+        "caption": "东航飞行事故内幕 ",
+        "label": 1
+    },
+    "61": {
+        "direct_path": "test/img_html_news/790",
+        "inv_path": "test/inverse_search/790",
+        "image_path": "test/img/790.jpg",
+        "caption": "据说2023年9月1日中国香烟将发布涨价通告，所有品牌价格直线飙升！",
+        "label": 1
+    },
+    "5866": {
+        "direct_path": "train/img_html_news/5287",
+        "inv_path": "train/inverse_search/5287",
+        "image_path": "train/img/5287.jpg",
+        "caption": "周末小记 就是带娃出门太累人了 我胳膊都抬不起来了",
+        "label": 2
+    },
+    "1872": {
+        "direct_path": "train/img_html_news/1293",
+        "inv_path": "train/inverse_search/1293",
+        "image_path": "train/img/1293.jpg",
+        "caption": "盲山 ",
+        "label": 1
+    },
+    "4528": {
+        "direct_path": "train/img_html_news/3949",
+        "inv_path": "train/inverse_search/3949",
+        "image_path": "train/img/3949.jpg",
+        "caption": "白鹿的话我真信了她能做得出来",
+        "label": 2
+    },
+    "5055": {
+        "direct_path": "train/img_html_news/4476",
+        "inv_path": "train/inverse_search/4476",
+        "image_path": "train/img/4476.jpg",
+        "caption": "菲律宾摄影师用长焦镜头偷拍我国南海造岛基建情况图片在外网火爆流行很多菲律宾网友馋哭了纷纷赞叹 不看这些图片还真不知道咱们这些年花费大量人力物力进行的南海经略不简单自从黄岩岛风云到现在南海已经有了实质性的改变并不是随便一个国家都可以开个船过来游一游了",
+        "label": 2
+    },
+    "7241": {
+        "direct_path": "val/img_html_news/256",
+        "inv_path": "val/inverse_search/256",
+        "image_path": "val/img/256.jpg",
+        "caption": " 据日本共同社报道15日日本首相岸田文雄的演讲场地传出爆炸声",
+        "label": 0
+    },
+    "4937": {
+        "direct_path": "train/img_html_news/4358",
+        "inv_path": "train/inverse_search/4358",
+        "image_path": "train/img/4358.jpg",
+        "caption": "这是什么漫画",
+        "label": 2
+    },
+    "1752": {
+        "direct_path": "train/img_html_news/1173",
+        "inv_path": "train/inverse_search/1173",
+        "image_path": "train/img/1173.jpg",
+        "caption": "郑州科技学院 这就是捐赠的物资 ",
+        "label": 1
+    }
+}
