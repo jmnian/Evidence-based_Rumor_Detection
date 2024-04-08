@@ -1,5 +1,5 @@
-# Project for AMICA and CSEN342 Deep Learning at Santa Clara University <br>
-This work improves upon the benchmark dataset MR2 https://dl.acm.org/doi/pdf/10.1145/3539618.3591896 by Xu et al., in proceedings of SIGIR 2023 <br>
+# This is a project for [AMICA](https://amica.scu.edu/) and CSEN342 Deep Learning at Santa Clara University <br>
+This work improves upon the benchmark dataset [MR2 by Xu et al., in proceedings of SIGIR 2023](https://dl.acm.org/doi/pdf/10.1145/3539618.3591896) <br>
 The best model produced from running `run.py` gives 94 accuracy on the shuffled Chinese dataset testset. <br>
 In `data`, we include 3 sets of json objects used to access the actual data. To run this code, plz go check their paper for the github link, and in their github find the dataset google drive link and after downloading put train, val, test folders into the `data` folder of this repo. <br>
 Our best model weights are not included because each of them takes 120MB, but please feel free to ask jnian@scu.edu and I will send it to you 
